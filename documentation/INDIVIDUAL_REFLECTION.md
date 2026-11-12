@@ -79,3 +79,4 @@ Throughout Phases 1, 2, and 3, and the Final Submission Audit, I held end-to-end
    - Build automated connectors from `reports/budget_reallocation_recommendations.json` into Google Ads API and Meta Marketing API to adjust target ROAS and campaign budgets automatically.
 4. **dbt Core & CI/CD Cloud Pipeline:**
    - Package all SQL staging and marts into an enterprise dbt Core repository with automated BigQuery CI/CD tests via GitHub Actions.
+

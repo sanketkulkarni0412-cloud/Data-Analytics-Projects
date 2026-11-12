@@ -258,3 +258,4 @@ TOTAL MARKETING BUDGET                       $308,808.42    REALLOCATION POOL   
   * Currency: `$#,##0.00` for revenue, spend, and CLV.
   * Percentages: `0.0%` for CTR, CVR, Repeat Purchase Rate.
   * Ratios: `0.00x` for ROAS.
+

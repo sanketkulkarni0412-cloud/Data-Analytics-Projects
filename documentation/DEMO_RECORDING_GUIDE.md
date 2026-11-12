@@ -124,3 +124,4 @@ Before initiating the screen recording, ensure the following setup is complete:
 * **Terminal Font:** Consolas or Cascadia Code, 16pt, dark background with high-contrast text.
 * **Editor Theme:** Dark Modern or GitHub Dark High Contrast.
 * **Mouse Cursor:** Highlight cursor on clicks (yellow halo) enabled.
+
