@@ -1,0 +1,35 @@
+﻿version: 2
+
+sources:
+  - name: ga4_source
+    database: bigquery-public-data
+    schema: ga4_obfuscated_sample_ecommerce
+    description: >
+      Official Google Merchandise Store sample e-commerce dataset for Google Analytics 4 (GA4).
+      Contains raw partitioned event stream records capturing real web visitor behavior.
+    tables:
+      - name: events_*
+        description: >
+          Daily partitioned event stream. Each row corresponds to a logged client-side or
+          server-side telemetry event (e.g., session_start, page_view, add_to_cart, purchase).
+        columns:
+          - name: event_date
+            description: Date of the event in YYYYMMDD string format.
+          - name: event_timestamp
+            description: Unix microsecond timestamp of the event.
+          - name: event_name
+            description: Name of the telemetry event.
+          - name: event_params
+            description: Repeated record containing key-value event parameters.
+          - name: user_pseudo_id
+            description: Obfuscated unique client identifier (cookie-level ID).
+          - name: user_id
+            description: Obfuscated logged-in user identifier, if authenticated.
+          - name: device
+            description: Device telemetry including category, OS, and browser.
+          - name: geo
+            description: Geographic origin including country, region, city.
+          - name: traffic_source
+            description: Acquisition source, medium, and name.
+          - name: ecommerce
+            description: Ecommerce purchase metadata including transaction_id and purchase_revenue_in_usd.

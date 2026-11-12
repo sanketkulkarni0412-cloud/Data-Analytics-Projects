@@ -1,0 +1,9 @@
+channel,campaign_name,utm_source,utm_medium,total_ad_spend_usd,total_impressions,total_clicks,reported_platform_conversions,attributed_conversions,attributed_revenue_usd,ctr_pct,cpc_usd,cpa_usd,cac_usd,roas,roi_pct
+Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,22108.37,1494998,51182,1486,73,5774.63,3.424,0.43,14.88,302.85,0.26,-73.88
+Display,Dynamic_Remarketing_Banners,google_display,display,25196.7,3280778,28358,369,126,9792.08,0.864,0.89,68.28,199.97,0.39,-61.14
+Paid Search,Brand_Search_Core,google,cpc,36714.4,1733043,101777,4578,380,30679.35,5.873,0.36,8.02,96.62,0.84,-16.44
+Paid Search,Generic_Apparel_Promo,google,cpc,51782.54,1921385,56152,1350,226,17818.1,2.922,0.92,38.36,229.13,0.34,-65.59
+Paid Search,Winter_Clearance_Sale,google,cpc,35350.49,1488825,46296,1196,0,0.0,3.11,0.76,29.56,0.0,0.0,-100.0
+Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,62642.72,3078363,75197,2154,223,18962.59,2.443,0.83,29.08,280.91,0.3,-69.73
+Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,43228.92,2600209,56316,1144,228,17041.43,2.166,0.77,37.79,189.6,0.39,-60.58
+Video,Brand_Awareness_Video_Q4,youtube,video,31784.28,2508005,30393,308,130,9784.63,1.212,1.05,103.2,244.49,0.31,-69.22

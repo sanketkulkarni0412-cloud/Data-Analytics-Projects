@@ -1,0 +1,206 @@
+{
+  "timestamp_utc": "2026-11-12T12:45:00.000000+00:00",
+  "audit_version": "1.0.0",
+  "overall_submission_status": "READY_FOR_SUBMISSION",
+  "test_results": {
+    "total_tests": 45,
+    "passed": 45,
+    "failed": 0,
+    "errors": 0,
+    "skipped": 0,
+    "duration_seconds": 0.51,
+    "test_runner": "python -m unittest discover tests",
+    "test_modules": [
+      {
+        "module": "tests/test_bigquery_runner.py",
+        "tests_count": 5,
+        "status": "PASSED"
+      },
+      {
+        "module": "tests/test_phase2_analytics.py",
+        "tests_count": 7,
+        "status": "PASSED"
+      },
+      {
+        "module": "tests/test_phase2_models.py",
+        "tests_count": 6,
+        "status": "PASSED"
+      },
+      {
+        "module": "tests/test_phase3_analytics.py",
+        "tests_count": 14,
+        "status": "PASSED"
+      },
+      {
+        "module": "tests/test_synthetic_data.py",
+        "tests_count": 13,
+        "status": "PASSED"
+      }
+    ]
+  },
+  "data_governance_result": {
+    "status": "VERIFIED_COMPLIANT",
+    "governance_tiers": {
+      "tier_a_public_ga4_dataset_source_design": {
+        "table": "bigquery-public-data.ga4_obfuscated_sample_ecommerce.events_*",
+        "role": "Public GA4 dataset source and schema design target",
+        "is_simulated": false
+      },
+      "tier_b_synthetic_crm_data": {
+        "file": "data/synthetic_crm_customers.csv",
+        "rows": 5000,
+        "role": "Simulated CRM customer base with RFC 2606 email domain",
+        "is_simulated": true
+      },
+      "tier_c_synthetic_advertising_spend": {
+        "file": "data/synthetic_ad_spend.csv",
+        "rows": 736,
+        "total_spend_usd": 308808.42,
+        "campaigns_count": 8,
+        "is_simulated": true
+      },
+      "tier_d_synthetic_identity_resolution_mapping": {
+        "file": "data/synthetic_identity_mapping.csv",
+        "rows": 7000,
+        "resolved_rate_pct": 60.0,
+        "is_simulated": true
+      },
+      "tier_e_local_reproducible_execution_validation_outputs": {
+        "files": [
+          "data/fct_sessions.csv",
+          "data/fct_orders.csv",
+          "data/fct_attribution_multi_model.csv",
+          "data/fct_customer_clv.csv",
+          "data/fct_campaign_roi.csv",
+          "data/tableau_customer_marketing_analytics.csv"
+        ],
+        "role": "Deterministic local testbed outputs calibrated to Public GA4 schema",
+        "live_bigquery_execution_claimed": false
+      }
+    },
+    "credential_disclosure": "Live GCP Application Default Credentials not configured; all reported KPIs (12,108 sessions, 1,659 orders, $131,133.96 revenue) are transparently disclosed as LOCAL_REPRODUCIBLE_EXECUTION validation outputs."
+  },
+  "attribution_reconciliation": {
+    "status": "EXACT_RECONCILIATION_VERIFIED",
+    "total_order_revenue_usd": 131133.96,
+    "models": {
+      "FIRST_TOUCH": {
+        "attributed_revenue_usd": 131133.96,
+        "unexplained_variance_usd": 0.0,
+        "weights_sum_to_one": true
+      },
+      "LAST_TOUCH": {
+        "attributed_revenue_usd": 131133.96,
+        "unexplained_variance_usd": 0.0,
+        "weights_sum_to_one": true
+      },
+      "LINEAR": {
+        "attributed_revenue_usd": 131133.96,
+        "unexplained_variance_usd": 0.0,
+        "weights_sum_to_one": true
+      },
+      "TIME_DECAY": {
+        "attributed_revenue_usd": 131133.96,
+        "unexplained_variance_usd": 0.0,
+        "half_life_days": 7.0,
+        "weights_sum_to_one": true
+      }
+    },
+    "duplicate_attribution_records": 0,
+    "total_attribution_rows": 9464
+  },
+  "clv_validation": {
+    "status": "VALIDATED",
+    "total_customers": 5000,
+    "historical_clv_total_usd": 59010.32,
+    "predicted_12m_clv_total_usd": 149065.05,
+    "average_predicted_clv_usd": 29.81,
+    "contribution_margin_assumption_pct": 45.0,
+    "margin_disclosure": "Explicitly documented as an illustrative retail scenario assumption",
+    "negative_or_impossible_values": 0,
+    "segment_counts": {
+      "Prospect / Inactive": 3429,
+      "Low Value Nurture": 1020,
+      "Medium Value Core": 388,
+      "High Value VIP": 163
+    }
+  },
+  "campaign_roi_validation": {
+    "status": "VALIDATED",
+    "campaigns_evaluated": 8,
+    "total_spend_usd": 308808.42,
+    "total_attributed_revenue_usd": 71747.88,
+    "blended_roas": 0.232,
+    "divide_by_zero_errors": 0,
+    "budget_reallocation_pool_usd": 74069.2,
+    "primary_recipient": "Brand_Search_Core",
+    "primary_recipient_metrics": {
+      "ROAS": 0.567,
+      "CAC_usd": 8.02,
+      "recommended_action": "SCALE_BUDGET (+20%)"
+    },
+    "monitored_campaign": "Dynamic_Remarketing_Banners",
+    "monitored_campaign_metrics": {
+      "ROAS": 0.265,
+      "CAC_usd": 68.28,
+      "recommended_action": "OPTIMIZE_WATCH (Refine audience, maintain spend)"
+    },
+    "reduced_campaigns_count": 6,
+    "recommendations_supported_by_metrics": true
+  },
+  "tableau_dataset_validation": {
+    "status": "VALIDATED",
+    "file_path": "data/tableau_customer_marketing_analytics.csv",
+    "row_count": 5000,
+    "column_count": 40,
+    "grain": "1 row per customer_id",
+    "customer_id_unique": true,
+    "broken_null_critical_fields": 0,
+    "data_dictionary_match": true,
+    "documented_in": "documentation/TABLEAU_DATA_DICTIONARY.md"
+  },
+  "documentation_validation": {
+    "status": "INTERNALLY_CONSISTENT",
+    "files_audited": [
+      "README.md",
+      "CHANGELOG.md",
+      "documentation/PROJECT_ARCHITECTURE.md",
+      "documentation/METRIC_DEFINITIONS.md",
+      "documentation/SYNTHETIC_DATA.md",
+      "documentation/TABLEAU_DATA_DICTIONARY.md",
+      "documentation/GA4_SOURCE_DOCUMENTATION.md"
+    ],
+    "discrepancies_resolved": [
+      "Added explicit five-tier data governance disclosure across all documentation",
+      "Clarified distinction between Public GA4 dataset source/design and LOCAL_REPRODUCIBLE_EXECUTION validation outputs",
+      "Corrected budget optimization reallocation pool from $81,628.21 to $74,069.20 across README, Architecture, and Data Dictionary",
+      "Updated top-performing campaign metrics to reflect exact calculated figures (ROAS 0.567, CAC $8.02)",
+      "Added 5 missing column definitions to TABLEAU_DATA_DICTIONARY.md to match the 40 columns in the CSV"
+    ]
+  },
+  "artifact_completeness": {
+    "status": "ALL_REQUIRED_ARTIFACTS_PRESENT",
+    "reports_verified": [
+      "reports/phase1_bigquery_validation.json",
+      "reports/phase1_synthetic_validation.json",
+      "reports/phase2_validation.json",
+      "reports/phase3_validation.json",
+      "reports/budget_reallocation_recommendations.json",
+      "reports/final_submission_audit.json"
+    ],
+    "sql_models_verified": 10,
+    "csv_marts_verified": 9
+  },
+  "protected_directory_integrity": {
+    "status": "VERIFIED_UNTOUCHED",
+    "protected_path": "D:\\nexvia - 1\\Financial-Analytics-System",
+    "modified_by_project": false,
+    "last_write_time": "2026-11-11T16:07:14"
+  },
+  "known_limitations": [
+    "Live BigQuery querying requires user-configured Google Cloud Project and Application Default Credentials (ADC); currently operates in LOCAL_REPRODUCIBLE_EXECUTION mode.",
+    "The 45% contribution margin applied to Customer Lifetime Value is an illustrative scenario assumption.",
+    "Customer identity resolution uses a deterministic synthetic bridge linking 60% of simulated GA4 visitor cookies to synthetic CRM records."
+  ]
+}
+

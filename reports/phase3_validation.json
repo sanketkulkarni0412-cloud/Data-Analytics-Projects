@@ -1,0 +1,146 @@
+{
+  "timestamp_utc": "2026-11-12T12:02:29.097859+00:00",
+  "phase": "PHASE_3_ADVANCED_ANALYTICS_ATTRIBUTION_CLV_ROI",
+  "validation_status": "PASSED",
+  "execution_mode": "LOCAL_REPRODUCIBLE_EXECUTION",
+  "governance_classification": "LOCAL_VALIDATION_SYNTHETIC_SCENARIO",
+  "attribution_reconciliation": {
+    "FIRST_TOUCH": {
+      "attributed_revenue_total": 131133.96,
+      "order_revenue_total": 131133.96,
+      "reconciliation_variance": 0.0,
+      "status": "EXACT_RECONCILIATION_VERIFIED"
+    },
+    "LAST_TOUCH": {
+      "attributed_revenue_total": 131133.96,
+      "order_revenue_total": 131133.96,
+      "reconciliation_variance": 0.0,
+      "status": "EXACT_RECONCILIATION_VERIFIED"
+    },
+    "LINEAR": {
+      "attributed_revenue_total": 131133.96,
+      "order_revenue_total": 131133.96,
+      "reconciliation_variance": 0.0,
+      "status": "EXACT_RECONCILIATION_VERIFIED"
+    },
+    "TIME_DECAY": {
+      "attributed_revenue_total": 131133.96,
+      "order_revenue_total": 131133.96,
+      "reconciliation_variance": 0.0,
+      "status": "EXACT_RECONCILIATION_VERIFIED"
+    }
+  },
+  "channel_attribution_comparison": {
+    "FIRST_TOUCH": {
+      "Affiliate": 5709.13,
+      "Direct": 10712.22,
+      "Display": 9792.08,
+      "Organic Search": 11223.15,
+      "Paid Search": 48331.64,
+      "Paid Social": 35640.91,
+      "Video": 9724.83
+    },
+    "LAST_TOUCH": {
+      "Affiliate": 4083.41,
+      "Direct": 49682.71,
+      "Display": 6812.1,
+      "Organic Search": 8256.77,
+      "Paid Search": 33530.97,
+      "Paid Social": 22307.15,
+      "Video": 6460.85
+    },
+    "LINEAR": {
+      "Affiliate": 4586.11,
+      "Direct": 34281.51,
+      "Display": 7745.13,
+      "Organic Search": 9356.96,
+      "Paid Search": 39840.05,
+      "Paid Social": 27635.81,
+      "Video": 7688.39
+    },
+    "TIME_DECAY": {
+      "Affiliate": 4375.96,
+      "Direct": 39210.67,
+      "Display": 7458.73,
+      "Organic Search": 9055.21,
+      "Paid Search": 37727.2,
+      "Paid Social": 25924.94,
+      "Video": 7381.25
+    }
+  },
+  "clv_summary": {
+    "total_customers": 5000,
+    "total_historical_clv_usd": 59010.32,
+    "total_predicted_12m_clv_usd": 149065.05,
+    "average_predicted_clv_usd": 29.81,
+    "clv_segment_distribution": {
+      "Prospect / Inactive": 3429,
+      "Low Value Nurture": 1020,
+      "Medium Value Core": 388,
+      "High Value VIP": 163
+    },
+    "contribution_margin_assumption_pct": 45.0
+  },
+  "campaign_roi_summary": {
+    "total_spend_usd": 308808.42,
+    "total_revenue_usd": 71747.88,
+    "blended_roas": 0.232,
+    "campaign_count": 8,
+    "budget_reallocation_pool_usd": 74069.2,
+    "top_performing_campaign": "Brand_Search_Core"
+  },
+  "tableau_dataset_validation": {
+    "file": "data/tableau_customer_marketing_analytics.csv",
+    "row_count": 5000,
+    "column_count": 40,
+    "columns": [
+      "customer_id",
+      "synthetic_first_name",
+      "synthetic_last_name",
+      "synthetic_email",
+      "signup_date",
+      "customer_tier",
+      "country",
+      "preferred_device",
+      "is_loyalty_member",
+      "opted_in_email",
+      "churn_risk_level",
+      "data_source",
+      "is_synthetic",
+      "simulation_seed",
+      "customer_total_sessions",
+      "total_engaged_sessions",
+      "total_page_views",
+      "total_duration_seconds",
+      "first_session_date",
+      "last_session_date",
+      "acquisition_channel",
+      "customer_total_orders",
+      "customer_total_revenue",
+      "first_order_date",
+      "last_order_date",
+      "average_order_value",
+      "purchase_frequency",
+      "days_since_last_activity",
+      "r_score",
+      "f_score",
+      "m_score",
+      "rfm_cell",
+      "composite_rfm",
+      "rfm_segment",
+      "historical_clv",
+      "predicted_12m_clv",
+      "clv_segment",
+      "data_source_crm",
+      "data_source_ga4",
+      "pipeline_execution_mode"
+    ]
+  },
+  "data_quality_invariants": {
+    "zero_negative_spend": true,
+    "attribution_weights_valid": true,
+    "revenue_reconciliation_variance": 0.0,
+    "zero_null_customer_ids": 0,
+    "status": "ALL_INVARIANTS_PASSED"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "timestamp_utc": "2026-11-12T11:33:51.696326+00:00",
+  "source_dataset": "bigquery-public-data.ga4_obfuscated_sample_ecommerce",
+  "target_project": "NONE_CONFIGURED",
+  "authentication_method": "ADC / AMBIENT",
+  "checks": {
+    "dry_run": {
+      "status": "FAILED",
+      "mode": "DRY_RUN",
+      "bytes_processed": 0,
+      "duration_seconds": 11.912,
+      "error": "Google Cloud Application Default Credentials not found. Set GOOGLE_APPLICATION_CREDENTIALS in .env or run `gcloud auth application-default login`.",
+      "error_type": "RuntimeError"
+    }
+  },
+  "status": "AUTHENTICATION_OR_PERMISSION_BLOCKED",
+  "error": "Google Cloud Application Default Credentials not found. Set GOOGLE_APPLICATION_CREDENTIALS in .env or run `gcloud auth application-default login`.",
+  "error_type": "RuntimeError",
+  "resolution_guidance": "BigQuery requires an active Google Cloud Project to sponsor query compute. Configure a Google Cloud Project with the BigQuery API enabled, and ensure the identity has `roles/bigquery.jobUser` permission. A zero-cost BigQuery Sandbox project can be created without a billing account."
+}

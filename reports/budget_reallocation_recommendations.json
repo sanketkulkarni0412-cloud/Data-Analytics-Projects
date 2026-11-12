@@ -1,0 +1,86 @@
+{
+  "timestamp_utc": "2026-11-12T12:02:28.949018+00:00",
+  "total_marketing_budget_usd": 308808.42,
+  "reallocation_pool_usd": 74069.2,
+  "primary_recipient_campaign": "Brand_Search_Core",
+  "recommendation_framework": {
+    "scale_threshold": "ROAS >= 0.50 or (ROAS >= 0.35 and CAC <= $200)",
+    "maintain_threshold": "0.35 <= ROAS < 0.50 and CAC <= $250",
+    "optimize_threshold": "0.25 <= ROAS < 0.35",
+    "reduce_threshold": "ROAS < 0.25 or CAC > $300"
+  },
+  "campaign_recommendations": [
+    {
+      "campaign": "Affiliate_Partner_Deals",
+      "channel": "Affiliate",
+      "spend": 22108.37,
+      "revenue": 3936.44,
+      "ROAS": 0.178,
+      "CAC": 14.88,
+      "recommended_action": "REDUCE_REALLOCATE (-30% budget shift)"
+    },
+    {
+      "campaign": "Dynamic_Remarketing_Banners",
+      "channel": "Display",
+      "spend": 25196.7,
+      "revenue": 6673.25,
+      "ROAS": 0.265,
+      "CAC": 68.28,
+      "recommended_action": "OPTIMIZE_WATCH (Refine audience, maintain spend)"
+    },
+    {
+      "campaign": "Brand_Search_Core",
+      "channel": "Paid Search",
+      "spend": 36714.4,
+      "revenue": 20805.53,
+      "ROAS": 0.567,
+      "CAC": 8.02,
+      "recommended_action": "SCALE_BUDGET (+20%)"
+    },
+    {
+      "campaign": "Generic_Apparel_Promo",
+      "channel": "Paid Search",
+      "spend": 51782.54,
+      "revenue": 11986.02,
+      "ROAS": 0.231,
+      "CAC": 38.36,
+      "recommended_action": "REDUCE_REALLOCATE (-30% budget shift)"
+    },
+    {
+      "campaign": "Winter_Clearance_Sale",
+      "channel": "Paid Search",
+      "spend": 35350.49,
+      "revenue": 0.0,
+      "ROAS": 0.0,
+      "CAC": 29.56,
+      "recommended_action": "REDUCE_REALLOCATE (-30% budget shift)"
+    },
+    {
+      "campaign": "Black_Friday_Cyber_Week",
+      "channel": "Paid Social",
+      "spend": 62642.72,
+      "revenue": 11824.56,
+      "ROAS": 0.189,
+      "CAC": 29.08,
+      "recommended_action": "REDUCE_REALLOCATE (-30% budget shift)"
+    },
+    {
+      "campaign": "Holiday_Gift_Guide_2020",
+      "channel": "Paid Social",
+      "spend": 43228.92,
+      "revenue": 10119.54,
+      "ROAS": 0.234,
+      "CAC": 37.79,
+      "recommended_action": "REDUCE_REALLOCATE (-30% budget shift)"
+    },
+    {
+      "campaign": "Brand_Awareness_Video_Q4",
+      "channel": "Video",
+      "spend": 31784.28,
+      "revenue": 6402.54,
+      "ROAS": 0.201,
+      "CAC": 103.2,
+      "recommended_action": "REDUCE_REALLOCATE (-30% budget shift)"
+    }
+  ]
+}

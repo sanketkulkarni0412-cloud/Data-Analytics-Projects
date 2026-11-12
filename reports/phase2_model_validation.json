@@ -1,0 +1,90 @@
+{
+  "timestamp_utc": "2026-11-12T11:46:45.067778+00:00",
+  "phase": "Phase 2: Analytics Data Models",
+  "validation_status": "PASSED",
+  "models": {
+    "int_sessions": {
+      "file": "models/intermediate/int_sessions.sql",
+      "grain": "One row per GA4 session (user_pseudo_id + session_id)",
+      "source": "stg_ga4_events (bigquery-public-data.ga4_obfuscated_sample_ecommerce)",
+      "primary_key": "session_key",
+      "key_metrics": [
+        "session_duration_seconds",
+        "event_count",
+        "page_views",
+        "is_engaged_session",
+        "has_purchase",
+        "session_revenue_usd"
+      ],
+      "status": "SQL_SPECIFIED_AND_VALIDATED"
+    },
+    "int_orders": {
+      "file": "models/intermediate/int_orders.sql",
+      "grain": "One row per unique e-commerce transaction (order_id)",
+      "source": "stg_ga4_events (where event_name = 'purchase')",
+      "primary_key": "order_id (transaction_id)",
+      "deduplication_rule": "ROW_NUMBER() OVER (PARTITION BY transaction_id ORDER BY event_timestamp ASC) = 1",
+      "key_metrics": [
+        "order_revenue_usd",
+        "tax_usd",
+        "shipping_usd",
+        "total_item_quantity",
+        "net_merchandise_revenue_usd"
+      ],
+      "status": "SQL_SPECIFIED_AND_VALIDATED"
+    },
+    "customer_profile": {
+      "file": "models/marts/customer_profile.sql",
+      "grain": "One row per customer_id",
+      "source": "stg_crm_customers + stg_identity_mapping + int_sessions + int_orders",
+      "primary_key": "customer_id",
+      "total_rows": 5000,
+      "unique_customers": 5000,
+      "linked_to_ga4_count": 2631,
+      "linked_to_ga4_pct": 52.62,
+      "unlinked_count": 2369,
+      "unlinked_pct": 47.38,
+      "status": "SQL_SPECIFIED_AND_VALIDATED"
+    }
+  },
+  "data_quality_audits": {
+    "duplicate_checks": {
+      "customer_profile_duplicates": 0,
+      "identity_mapping_duplicates": 0,
+      "ad_spend_duplicates": 0,
+      "status": "ZERO_DUPLICATES_VERIFIED"
+    },
+    "null_rate_checks": {
+      "customer_profile_customer_id_null_pct": 0.0,
+      "customer_profile_signup_date_null_pct": 0.0,
+      "identity_mapping_pseudo_id_null_pct": 0.0,
+      "ad_spend_daily_spend_null_pct": 0.0
+    },
+    "non_negativity_invariants": {
+      "ad_spend_strictly_positive": true,
+      "impressions_clicks_conversions_hierarchy": true,
+      "status": "INVARIANTS_PASSED"
+    }
+  },
+  "reconciliation_summary": {
+    "crm_customers_total": 5000,
+    "ad_spend_campaign_days": 736,
+    "ad_spend_total_budget_usd": 308808.42,
+    "identity_mappings_total": 7000,
+    "identity_mappings_resolved": 4200,
+    "identity_mappings_unresolved": 2800,
+    "date_range": {
+      "crm_signup_min": "2019-01-01",
+      "crm_signup_max": "2021-01-31",
+      "ad_spend_min": "2020-11-01",
+      "ad_spend_max": "2021-01-31"
+    }
+  },
+  "test_results": {
+    "test_phase2_models": "6/6 PASSED",
+    "test_synthetic_data": "13/13 PASSED",
+    "test_bigquery_runner": "5/5 PASSED",
+    "total_passed": 24,
+    "total_failed": 0
+  }
+}

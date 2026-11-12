@@ -1,0 +1,43 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Credentials & Sensitive Config
+*.pem
+*.key
+.env
+.env.local
+.env.*.local
+config/credentials/
+service_account*.json
+*credentials*.json
+profiles.yml
+~/.dbt/
+
+# Allow report JSONs and package configs
+!package*.json
+!reports/*.json
+
+# dbt
+dbt_project/target/
+dbt_project/dbt_packages/
+dbt_project/logs/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Tableau
+*.tfl
+*.hyper
+tableau/exports/*.csv
+tableau/exports/*.parquet

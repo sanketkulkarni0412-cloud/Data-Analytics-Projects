@@ -1,0 +1,9 @@
+channel,campaign,spend,impressions,clicks,conversions,revenue,ROAS,CAC,CTR,CVR,revenue_per_click,recommended_action
+Affiliate,Affiliate_Partner_Deals,22108.37,1494998,51182,1486,3936.44,0.178,14.88,3.424,2.903,0.077,REDUCE_REALLOCATE (-30% budget shift)
+Display,Dynamic_Remarketing_Banners,25196.7,3280778,28358,369,6673.25,0.265,68.28,0.864,1.301,0.235,"OPTIMIZE_WATCH (Refine audience, maintain spend)"
+Paid Search,Brand_Search_Core,36714.4,1733043,101777,4578,20805.53,0.567,8.02,5.873,4.498,0.204,SCALE_BUDGET (+20%)
+Paid Search,Generic_Apparel_Promo,51782.54,1921385,56152,1350,11986.02,0.231,38.36,2.922,2.404,0.213,REDUCE_REALLOCATE (-30% budget shift)
+Paid Search,Winter_Clearance_Sale,35350.49,1488825,46296,1196,0.0,0.0,29.56,3.11,2.583,0.0,REDUCE_REALLOCATE (-30% budget shift)
+Paid Social,Black_Friday_Cyber_Week,62642.72,3078363,75197,2154,11824.56,0.189,29.08,2.443,2.864,0.157,REDUCE_REALLOCATE (-30% budget shift)
+Paid Social,Holiday_Gift_Guide_2020,43228.92,2600209,56316,1144,10119.54,0.234,37.79,2.166,2.031,0.18,REDUCE_REALLOCATE (-30% budget shift)
+Video,Brand_Awareness_Video_Q4,31784.28,2508005,30393,308,6402.54,0.201,103.2,1.212,1.013,0.211,REDUCE_REALLOCATE (-30% budget shift)
