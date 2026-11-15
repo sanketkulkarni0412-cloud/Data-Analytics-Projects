@@ -158,6 +158,35 @@ python -m pytest tests/ -v
 
 ---
 
+
+
+---
+
+## 📸 Visual Analytics & Deliverable Screenshots Gallery
+
+### Project 1 (DA-02): Customer 360 & Marketing Analytics
+| Test Suite (45/45 Passing) | Customer RFM Segmentation |
+|:---:|:---:|
+| ![Automated Tests](DA-02/screenshots/01_unit_tests_passing.png) | ![RFM Segmentation](DA-02/screenshots/02_rfm_customer_segmentation.png) |
+
+| Multi-Touch Attribution Comparison | Campaign ROAS & CAC Ranking |
+|:---:|:---:|
+| ![Attribution Comparison](DA-02/screenshots/03_attribution_models_comparison.png) | ![Campaign Performance](DA-02/screenshots/04_campaign_roi_and_cac.png) |
+
+| Strategic Budget Reallocation ( Shift) |
+|:---:|
+| ![Budget Reallocation](DA-02/screenshots/05_budget_reallocation_strategy.png) |
+
+### Project 2 (DA-04): Financial Analytics & Credit Risk Scorecard
+| Loan Grade Distribution | Default Rate by Grade |
+|:---:|:---:|
+| ![Loan Grade](DA-04/screenshots/loan_grade_distribution.png) | ![Default Rate](DA-04/screenshots/default_rate_by_grade.png) |
+
+| Correlation Heatmap | Interest Rate Distribution |
+|:---:|:---:|
+| ![Correlation Heatmap](DA-04/screenshots/correlation_heatmap.png) | ![Interest Rate](DA-04/screenshots/interest_rate_distribution.png) |
+
+
 ## 🔒 Data Governance & Ethical Compliance Notice
 - **DA-02**: All GA4 e-commerce models conform to the Google Analytics 4 public schema (`bigquery-public-data.ga4_obfuscated_sample_ecommerce`). In the absence of live cloud project billing credentials, validation outputs are generated via reproducible, deterministic test runs (`LOCAL_REPRODUCIBLE_EXECUTION`). All CRM identifiers, emails, and ad spend datasets are synthetic and strictly privacy-compliant (RFC 2606 domain standards).
 - **DA-04**: Loan records and financial data are scrubbed of PII and handled in accordance with banking analytical governance protocols.
