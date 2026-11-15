@@ -1,0 +1,57 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment files and credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Large Database & Binary files (avoid committing large local sqlite binaries)
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# Large raw datasets
+**/dataset/raw/*.csv
+**/dataset/raw/*.csv.gz
+**/dataset/raw/*.zip
+**/dataset/raw/*.parquet
+!**/data/*.csv
+!**/qlik_dashboard/data/*.csv
+
+# Temporary files
+tmp/
+temp/
+scratch/

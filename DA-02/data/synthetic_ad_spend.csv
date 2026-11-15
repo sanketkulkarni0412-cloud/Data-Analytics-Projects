@@ -1,0 +1,737 @@
+spend_id,spend_date,campaign_id,channel,campaign_name,utm_source,utm_medium,utm_campaign,daily_spend_usd,impressions,clicks,conversions,cpm,ctr_pct,cpc_usd,cvr_pct,data_source,is_synthetic,simulation_seed
+SPD-0000001,2020-11-01,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,307.96,12992,870,41,23.7,6.696,0.35,4.713,SYNTHETIC_SIMULATION,True,42
+SPD-0000002,2020-11-01,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,403.56,17129,360,10,23.56,2.102,1.12,2.778,SYNTHETIC_SIMULATION,True,42
+SPD-0000003,2020-11-01,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,391.53,21456,328,8,18.25,1.529,1.19,2.439,SYNTHETIC_SIMULATION,True,42
+SPD-0000004,2020-11-01,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,604.85,33770,694,16,17.91,2.055,0.87,2.305,SYNTHETIC_SIMULATION,True,42
+SPD-0000005,2020-11-01,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,207.08,25569,220,2,8.1,0.86,0.94,0.909,SYNTHETIC_SIMULATION,True,42
+SPD-0000006,2020-11-01,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,289.4,26705,276,2,10.84,1.034,1.05,0.725,SYNTHETIC_SIMULATION,True,42
+SPD-0000007,2020-11-01,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,305.91,11640,298,8,26.28,2.56,1.03,2.685,SYNTHETIC_SIMULATION,True,42
+SPD-0000008,2020-11-01,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,195.27,15903,591,14,12.28,3.716,0.33,2.369,SYNTHETIC_SIMULATION,True,42
+SPD-0000009,2020-11-02,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,278.24,11743,869,44,23.69,7.4,0.32,5.063,SYNTHETIC_SIMULATION,True,42
+SPD-0000010,2020-11-02,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,423.62,18437,596,14,22.98,3.233,0.71,2.349,SYNTHETIC_SIMULATION,True,42
+SPD-0000011,2020-11-02,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,336.91,19852,307,7,16.97,1.546,1.1,2.28,SYNTHETIC_SIMULATION,True,42
+SPD-0000012,2020-11-02,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,510.2,23230,520,15,21.96,2.238,0.98,2.885,SYNTHETIC_SIMULATION,True,42
+SPD-0000013,2020-11-02,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,223.08,33101,391,6,6.74,1.181,0.57,1.535,SYNTHETIC_SIMULATION,True,42
+SPD-0000014,2020-11-02,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,316.92,20621,264,4,15.37,1.28,1.2,1.515,SYNTHETIC_SIMULATION,True,42
+SPD-0000015,2020-11-02,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,271.73,12599,287,7,21.57,2.278,0.95,2.439,SYNTHETIC_SIMULATION,True,42
+SPD-0000016,2020-11-02,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,183.65,13476,560,15,13.63,4.156,0.33,2.679,SYNTHETIC_SIMULATION,True,42
+SPD-0000017,2020-11-03,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,298.97,14065,692,35,21.26,4.92,0.43,5.058,SYNTHETIC_SIMULATION,True,42
+SPD-0000018,2020-11-03,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,392.56,12318,418,9,31.87,3.393,0.94,2.153,SYNTHETIC_SIMULATION,True,42
+SPD-0000019,2020-11-03,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,323.63,17130,414,9,18.89,2.417,0.78,2.174,SYNTHETIC_SIMULATION,True,42
+SPD-0000020,2020-11-03,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,594.76,35686,821,18,16.67,2.301,0.72,2.192,SYNTHETIC_SIMULATION,True,42
+SPD-0000021,2020-11-03,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,243.96,28724,229,2,8.49,0.797,1.07,0.873,SYNTHETIC_SIMULATION,True,42
+SPD-0000022,2020-11-03,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,264.12,22100,306,3,11.95,1.385,0.86,0.98,SYNTHETIC_SIMULATION,True,42
+SPD-0000023,2020-11-03,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,346.01,14552,351,10,23.78,2.412,0.99,2.849,SYNTHETIC_SIMULATION,True,42
+SPD-0000024,2020-11-03,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,204.86,13331,539,15,15.37,4.043,0.38,2.783,SYNTHETIC_SIMULATION,True,42
+SPD-0000025,2020-11-04,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,322.18,15666,717,27,20.57,4.577,0.45,3.766,SYNTHETIC_SIMULATION,True,42
+SPD-0000026,2020-11-04,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,386.74,13635,350,8,28.36,2.567,1.1,2.286,SYNTHETIC_SIMULATION,True,42
+SPD-0000027,2020-11-04,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,426.46,27521,560,13,15.5,2.035,0.76,2.321,SYNTHETIC_SIMULATION,True,42
+SPD-0000028,2020-11-04,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,505.25,30268,668,15,16.69,2.207,0.76,2.246,SYNTHETIC_SIMULATION,True,42
+SPD-0000029,2020-11-04,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,248.36,26901,264,4,9.23,0.981,0.94,1.515,SYNTHETIC_SIMULATION,True,42
+SPD-0000030,2020-11-04,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,305.51,27475,416,4,11.12,1.514,0.73,0.962,SYNTHETIC_SIMULATION,True,42
+SPD-0000031,2020-11-04,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,338.59,12462,345,7,27.17,2.768,0.98,2.029,SYNTHETIC_SIMULATION,True,42
+SPD-0000032,2020-11-04,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,174.49,11982,496,16,14.56,4.14,0.35,3.226,SYNTHETIC_SIMULATION,True,42
+SPD-0000033,2020-11-05,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,272.67,12945,745,29,21.06,5.755,0.37,3.893,SYNTHETIC_SIMULATION,True,42
+SPD-0000034,2020-11-05,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,398.68,15711,581,13,25.38,3.698,0.69,2.238,SYNTHETIC_SIMULATION,True,42
+SPD-0000035,2020-11-05,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,382.14,20976,414,10,18.22,1.974,0.92,2.415,SYNTHETIC_SIMULATION,True,42
+SPD-0000036,2020-11-05,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,626.3,34288,856,22,18.27,2.497,0.73,2.57,SYNTHETIC_SIMULATION,True,42
+SPD-0000037,2020-11-05,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,205.8,33477,323,4,6.15,0.965,0.64,1.238,SYNTHETIC_SIMULATION,True,42
+SPD-0000038,2020-11-05,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,242.32,20761,317,3,11.67,1.527,0.76,0.946,SYNTHETIC_SIMULATION,True,42
+SPD-0000039,2020-11-05,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,276.98,11582,460,11,23.91,3.972,0.6,2.391,SYNTHETIC_SIMULATION,True,42
+SPD-0000040,2020-11-05,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,199.81,12059,359,11,16.57,2.977,0.56,3.064,SYNTHETIC_SIMULATION,True,42
+SPD-0000041,2020-11-06,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,307.31,14101,903,41,21.79,6.404,0.34,4.54,SYNTHETIC_SIMULATION,True,42
+SPD-0000042,2020-11-06,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,394.69,13003,335,7,30.35,2.576,1.18,2.09,SYNTHETIC_SIMULATION,True,42
+SPD-0000043,2020-11-06,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,327.65,18674,445,7,17.55,2.383,0.74,1.573,SYNTHETIC_SIMULATION,True,42
+SPD-0000044,2020-11-06,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,552.0,30601,827,19,18.04,2.703,0.67,2.297,SYNTHETIC_SIMULATION,True,42
+SPD-0000045,2020-11-06,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,232.6,30820,358,3,7.55,1.162,0.65,0.838,SYNTHETIC_SIMULATION,True,42
+SPD-0000046,2020-11-06,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,266.65,24965,384,5,10.68,1.538,0.69,1.302,SYNTHETIC_SIMULATION,True,42
+SPD-0000047,2020-11-06,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,287.49,11372,417,11,25.28,3.667,0.69,2.638,SYNTHETIC_SIMULATION,True,42
+SPD-0000048,2020-11-06,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,191.69,14251,383,13,13.45,2.688,0.5,3.394,SYNTHETIC_SIMULATION,True,42
+SPD-0000049,2020-11-07,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,358.44,16443,907,38,21.8,5.516,0.4,4.19,SYNTHETIC_SIMULATION,True,42
+SPD-0000050,2020-11-07,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,480.5,15514,558,15,30.97,3.597,0.86,2.688,SYNTHETIC_SIMULATION,True,42
+SPD-0000051,2020-11-07,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,396.19,27314,467,11,14.51,1.71,0.85,2.355,SYNTHETIC_SIMULATION,True,42
+SPD-0000052,2020-11-07,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,567.56,35290,685,22,16.08,1.941,0.83,3.212,SYNTHETIC_SIMULATION,True,42
+SPD-0000053,2020-11-07,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,187.33,28199,262,4,6.64,0.929,0.72,1.527,SYNTHETIC_SIMULATION,True,42
+SPD-0000054,2020-11-07,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,292.76,25804,353,3,11.35,1.368,0.83,0.85,SYNTHETIC_SIMULATION,True,42
+SPD-0000055,2020-11-07,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,293.76,11311,381,12,25.97,3.368,0.77,3.15,SYNTHETIC_SIMULATION,True,42
+SPD-0000056,2020-11-07,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,198.98,12913,347,9,15.41,2.687,0.57,2.594,SYNTHETIC_SIMULATION,True,42
+SPD-0000057,2020-11-08,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,297.46,15283,1134,49,19.46,7.42,0.26,4.321,SYNTHETIC_SIMULATION,True,42
+SPD-0000058,2020-11-08,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,502.93,17764,609,15,28.31,3.428,0.83,2.463,SYNTHETIC_SIMULATION,True,42
+SPD-0000059,2020-11-08,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,388.77,22929,402,9,16.96,1.753,0.97,2.239,SYNTHETIC_SIMULATION,True,42
+SPD-0000060,2020-11-08,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,513.83,31681,857,20,16.22,2.705,0.6,2.334,SYNTHETIC_SIMULATION,True,42
+SPD-0000061,2020-11-08,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,249.07,25375,292,3,9.82,1.151,0.85,1.027,SYNTHETIC_SIMULATION,True,42
+SPD-0000062,2020-11-08,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,239.3,15369,176,2,15.57,1.145,1.36,1.136,SYNTHETIC_SIMULATION,True,42
+SPD-0000063,2020-11-08,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,353.12,13164,359,9,26.82,2.727,0.98,2.507,SYNTHETIC_SIMULATION,True,42
+SPD-0000064,2020-11-08,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,210.01,15107,429,13,13.9,2.84,0.49,3.03,SYNTHETIC_SIMULATION,True,42
+SPD-0000065,2020-11-09,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,361.87,16318,1013,37,22.18,6.208,0.36,3.653,SYNTHETIC_SIMULATION,True,42
+SPD-0000066,2020-11-09,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,465.53,14593,329,8,31.9,2.255,1.41,2.432,SYNTHETIC_SIMULATION,True,42
+SPD-0000067,2020-11-09,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,423.02,22935,552,12,18.44,2.407,0.77,2.174,SYNTHETIC_SIMULATION,True,42
+SPD-0000068,2020-11-09,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,526.82,28259,829,29,18.64,2.934,0.64,3.498,SYNTHETIC_SIMULATION,True,42
+SPD-0000069,2020-11-09,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,244.23,25301,229,3,9.65,0.905,1.07,1.31,SYNTHETIC_SIMULATION,True,42
+SPD-0000070,2020-11-09,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,305.06,21947,299,4,13.9,1.362,1.02,1.338,SYNTHETIC_SIMULATION,True,42
+SPD-0000071,2020-11-09,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,346.27,15252,439,9,22.7,2.878,0.79,2.05,SYNTHETIC_SIMULATION,True,42
+SPD-0000072,2020-11-09,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,194.46,15919,546,16,12.22,3.43,0.36,2.93,SYNTHETIC_SIMULATION,True,42
+SPD-0000073,2020-11-10,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,299.51,13902,638,23,21.54,4.589,0.47,3.605,SYNTHETIC_SIMULATION,True,42
+SPD-0000074,2020-11-10,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,493.55,19278,430,10,25.6,2.231,1.15,2.326,SYNTHETIC_SIMULATION,True,42
+SPD-0000075,2020-11-10,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,410.78,26857,620,10,15.3,2.309,0.66,1.613,SYNTHETIC_SIMULATION,True,42
+SPD-0000076,2020-11-10,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,476.03,22906,586,18,20.78,2.558,0.81,3.072,SYNTHETIC_SIMULATION,True,42
+SPD-0000077,2020-11-10,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,234.92,23721,216,2,9.9,0.911,1.09,0.926,SYNTHETIC_SIMULATION,True,42
+SPD-0000078,2020-11-10,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,304.8,26219,302,2,11.63,1.152,1.01,0.662,SYNTHETIC_SIMULATION,True,42
+SPD-0000079,2020-11-10,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,265.86,9597,356,10,27.7,3.709,0.75,2.809,SYNTHETIC_SIMULATION,True,42
+SPD-0000080,2020-11-10,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,184.81,14173,399,10,13.04,2.815,0.46,2.506,SYNTHETIC_SIMULATION,True,42
+SPD-0000081,2020-11-11,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,324.73,14570,944,38,22.29,6.479,0.34,4.025,SYNTHETIC_SIMULATION,True,42
+SPD-0000082,2020-11-11,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,511.41,17407,522,13,29.38,2.999,0.98,2.49,SYNTHETIC_SIMULATION,True,42
+SPD-0000083,2020-11-11,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,370.83,23946,470,11,15.49,1.963,0.79,2.34,SYNTHETIC_SIMULATION,True,42
+SPD-0000084,2020-11-11,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,469.87,27567,514,11,17.04,1.865,0.91,2.14,SYNTHETIC_SIMULATION,True,42
+SPD-0000085,2020-11-11,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,243.46,27620,244,2,8.81,0.883,1.0,0.82,SYNTHETIC_SIMULATION,True,42
+SPD-0000086,2020-11-11,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,279.3,21751,204,2,12.84,0.938,1.37,0.98,SYNTHETIC_SIMULATION,True,42
+SPD-0000087,2020-11-11,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,300.56,12058,403,8,24.93,3.342,0.75,1.985,SYNTHETIC_SIMULATION,True,42
+SPD-0000088,2020-11-11,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,182.85,11606,407,13,15.75,3.507,0.45,3.194,SYNTHETIC_SIMULATION,True,42
+SPD-0000089,2020-11-12,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,335.23,17665,832,40,18.98,4.71,0.4,4.808,SYNTHETIC_SIMULATION,True,42
+SPD-0000090,2020-11-12,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,386.08,13859,512,13,27.86,3.694,0.75,2.539,SYNTHETIC_SIMULATION,True,42
+SPD-0000091,2020-11-12,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,367.25,20563,431,9,17.86,2.096,0.85,2.088,SYNTHETIC_SIMULATION,True,42
+SPD-0000092,2020-11-12,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,622.84,31982,1006,37,19.47,3.146,0.62,3.678,SYNTHETIC_SIMULATION,True,42
+SPD-0000093,2020-11-12,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,199.92,31847,210,2,6.28,0.659,0.95,0.952,SYNTHETIC_SIMULATION,True,42
+SPD-0000094,2020-11-12,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,245.93,17444,149,1,14.1,0.854,1.65,0.671,SYNTHETIC_SIMULATION,True,42
+SPD-0000095,2020-11-12,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,342.07,16946,621,15,20.19,3.665,0.55,2.415,SYNTHETIC_SIMULATION,True,42
+SPD-0000096,2020-11-12,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,168.24,10398,391,13,16.18,3.76,0.43,3.325,SYNTHETIC_SIMULATION,True,42
+SPD-0000097,2020-11-13,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,342.57,15011,803,31,22.82,5.349,0.43,3.861,SYNTHETIC_SIMULATION,True,42
+SPD-0000098,2020-11-13,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,483.83,16091,609,14,30.07,3.785,0.79,2.299,SYNTHETIC_SIMULATION,True,42
+SPD-0000099,2020-11-13,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,365.41,19584,381,9,18.66,1.945,0.96,2.362,SYNTHETIC_SIMULATION,True,42
+SPD-0000100,2020-11-13,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,609.14,30670,874,29,19.86,2.85,0.7,3.318,SYNTHETIC_SIMULATION,True,42
+SPD-0000101,2020-11-13,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,193.81,20167,182,3,9.61,0.902,1.06,1.648,SYNTHETIC_SIMULATION,True,42
+SPD-0000102,2020-11-13,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,264.88,17230,191,1,15.37,1.109,1.39,0.524,SYNTHETIC_SIMULATION,True,42
+SPD-0000103,2020-11-13,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,347.7,16773,465,15,20.73,2.772,0.75,3.226,SYNTHETIC_SIMULATION,True,42
+SPD-0000104,2020-11-13,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,215.68,13968,526,15,15.44,3.766,0.41,2.852,SYNTHETIC_SIMULATION,True,42
+SPD-0000105,2020-11-14,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,300.15,15029,980,49,19.97,6.521,0.31,5.0,SYNTHETIC_SIMULATION,True,42
+SPD-0000106,2020-11-14,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,489.36,16369,354,8,29.9,2.163,1.38,2.26,SYNTHETIC_SIMULATION,True,42
+SPD-0000107,2020-11-14,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,329.56,19053,395,9,17.3,2.073,0.83,2.278,SYNTHETIC_SIMULATION,True,42
+SPD-0000108,2020-11-14,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,525.4,30809,616,21,17.05,1.999,0.85,3.409,SYNTHETIC_SIMULATION,True,42
+SPD-0000109,2020-11-14,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,227.8,35569,231,3,6.4,0.649,0.99,1.299,SYNTHETIC_SIMULATION,True,42
+SPD-0000110,2020-11-14,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,244.11,16349,223,1,14.93,1.364,1.09,0.448,SYNTHETIC_SIMULATION,True,42
+SPD-0000111,2020-11-14,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,271.39,9730,280,7,27.89,2.878,0.97,2.5,SYNTHETIC_SIMULATION,True,42
+SPD-0000112,2020-11-14,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,207.83,11753,526,17,17.68,4.475,0.4,3.232,SYNTHETIC_SIMULATION,True,42
+SPD-0000113,2020-11-15,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,308.12,16654,1138,53,18.5,6.833,0.27,4.657,SYNTHETIC_SIMULATION,True,42
+SPD-0000114,2020-11-15,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,439.77,14157,311,7,31.06,2.197,1.41,2.251,SYNTHETIC_SIMULATION,True,42
+SPD-0000115,2020-11-15,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,324.29,19289,303,5,16.81,1.571,1.07,1.65,SYNTHETIC_SIMULATION,True,42
+SPD-0000116,2020-11-15,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,486.89,22291,634,19,21.84,2.844,0.77,2.997,SYNTHETIC_SIMULATION,True,42
+SPD-0000117,2020-11-15,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,250.5,33402,258,4,7.5,0.772,0.97,1.55,SYNTHETIC_SIMULATION,True,42
+SPD-0000118,2020-11-15,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,256.78,16273,132,2,15.78,0.811,1.95,1.515,SYNTHETIC_SIMULATION,True,42
+SPD-0000119,2020-11-15,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,267.51,9861,311,10,27.13,3.154,0.86,3.215,SYNTHETIC_SIMULATION,True,42
+SPD-0000120,2020-11-15,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,165.71,10814,480,14,15.32,4.439,0.35,2.917,SYNTHETIC_SIMULATION,True,42
+SPD-0000121,2020-11-16,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,332.42,14991,879,42,22.17,5.864,0.38,4.778,SYNTHETIC_SIMULATION,True,42
+SPD-0000122,2020-11-16,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,461.38,14878,310,7,31.01,2.084,1.49,2.258,SYNTHETIC_SIMULATION,True,42
+SPD-0000123,2020-11-16,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,431.35,22302,467,10,19.34,2.094,0.92,2.141,SYNTHETIC_SIMULATION,True,42
+SPD-0000124,2020-11-16,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,513.27,29010,711,19,17.69,2.451,0.72,2.672,SYNTHETIC_SIMULATION,True,42
+SPD-0000125,2020-11-16,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,225.52,35735,423,8,6.31,1.184,0.53,1.891,SYNTHETIC_SIMULATION,True,42
+SPD-0000126,2020-11-16,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,296.65,22445,235,3,13.22,1.047,1.26,1.277,SYNTHETIC_SIMULATION,True,42
+SPD-0000127,2020-11-16,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,327.18,15360,590,18,21.3,3.841,0.55,3.051,SYNTHETIC_SIMULATION,True,42
+SPD-0000128,2020-11-16,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,215.64,13186,491,13,16.35,3.724,0.44,2.648,SYNTHETIC_SIMULATION,True,42
+SPD-0000129,2020-11-17,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,361.54,15586,723,26,23.2,4.639,0.5,3.596,SYNTHETIC_SIMULATION,True,42
+SPD-0000130,2020-11-17,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,433.32,14393,544,11,30.11,3.78,0.8,2.022,SYNTHETIC_SIMULATION,True,42
+SPD-0000131,2020-11-17,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,390.73,23993,662,16,16.29,2.759,0.59,2.417,SYNTHETIC_SIMULATION,True,42
+SPD-0000132,2020-11-17,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,605.82,29964,713,18,20.22,2.38,0.85,2.525,SYNTHETIC_SIMULATION,True,42
+SPD-0000133,2020-11-17,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,190.72,20163,219,4,9.46,1.086,0.87,1.826,SYNTHETIC_SIMULATION,True,42
+SPD-0000134,2020-11-17,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,321.72,24130,341,5,13.33,1.413,0.94,1.466,SYNTHETIC_SIMULATION,True,42
+SPD-0000135,2020-11-17,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,342.52,15584,469,10,21.98,3.009,0.73,2.132,SYNTHETIC_SIMULATION,True,42
+SPD-0000136,2020-11-17,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,215.88,13806,408,13,15.64,2.955,0.53,3.186,SYNTHETIC_SIMULATION,True,42
+SPD-0000137,2020-11-18,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,331.34,16445,796,39,20.15,4.84,0.42,4.899,SYNTHETIC_SIMULATION,True,42
+SPD-0000138,2020-11-18,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,452.74,15232,447,13,29.72,2.935,1.01,2.908,SYNTHETIC_SIMULATION,True,42
+SPD-0000139,2020-11-18,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,385.92,22223,587,11,17.37,2.641,0.66,1.874,SYNTHETIC_SIMULATION,True,42
+SPD-0000140,2020-11-18,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,489.61,30113,860,27,16.26,2.856,0.57,3.14,SYNTHETIC_SIMULATION,True,42
+SPD-0000141,2020-11-18,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,233.47,34074,232,2,6.85,0.681,1.01,0.862,SYNTHETIC_SIMULATION,True,42
+SPD-0000142,2020-11-18,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,267.45,19753,220,2,13.54,1.114,1.22,0.909,SYNTHETIC_SIMULATION,True,42
+SPD-0000143,2020-11-18,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,347.59,15255,477,14,22.79,3.127,0.73,2.935,SYNTHETIC_SIMULATION,True,42
+SPD-0000144,2020-11-18,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,184.1,11702,494,17,15.73,4.222,0.37,3.441,SYNTHETIC_SIMULATION,True,42
+SPD-0000145,2020-11-19,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,286.12,12145,726,29,23.56,5.978,0.39,3.994,SYNTHETIC_SIMULATION,True,42
+SPD-0000146,2020-11-19,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,444.48,13977,403,9,31.8,2.883,1.1,2.233,SYNTHETIC_SIMULATION,True,42
+SPD-0000147,2020-11-19,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,395.21,25595,409,7,15.44,1.598,0.97,1.711,SYNTHETIC_SIMULATION,True,42
+SPD-0000148,2020-11-19,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,488.63,28135,561,18,17.37,1.994,0.87,3.209,SYNTHETIC_SIMULATION,True,42
+SPD-0000149,2020-11-19,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,199.0,26955,307,4,7.38,1.139,0.65,1.303,SYNTHETIC_SIMULATION,True,42
+SPD-0000150,2020-11-19,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,294.07,26651,254,2,11.03,0.953,1.16,0.787,SYNTHETIC_SIMULATION,True,42
+SPD-0000151,2020-11-19,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,279.21,12561,316,7,22.23,2.516,0.88,2.215,SYNTHETIC_SIMULATION,True,42
+SPD-0000152,2020-11-19,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,168.38,11404,332,9,14.76,2.911,0.51,2.711,SYNTHETIC_SIMULATION,True,42
+SPD-0000153,2020-11-20,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,320.33,14467,668,34,22.14,4.617,0.48,5.09,SYNTHETIC_SIMULATION,True,42
+SPD-0000154,2020-11-20,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,467.27,20478,732,21,22.82,3.575,0.64,2.869,SYNTHETIC_SIMULATION,True,42
+SPD-0000155,2020-11-20,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,329.96,21069,537,12,15.66,2.549,0.61,2.235,SYNTHETIC_SIMULATION,True,42
+SPD-0000156,2020-11-20,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,497.95,27843,646,19,17.88,2.32,0.77,2.941,SYNTHETIC_SIMULATION,True,42
+SPD-0000157,2020-11-20,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,227.8,30472,267,4,7.48,0.876,0.85,1.498,SYNTHETIC_SIMULATION,True,42
+SPD-0000158,2020-11-20,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,241.08,20937,287,4,11.51,1.371,0.84,1.394,SYNTHETIC_SIMULATION,True,42
+SPD-0000159,2020-11-20,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,311.09,12825,307,8,24.26,2.394,1.01,2.606,SYNTHETIC_SIMULATION,True,42
+SPD-0000160,2020-11-20,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,191.86,14260,433,12,13.45,3.036,0.44,2.771,SYNTHETIC_SIMULATION,True,42
+SPD-0000161,2020-11-21,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,273.93,13743,706,29,19.93,5.137,0.39,4.108,SYNTHETIC_SIMULATION,True,42
+SPD-0000162,2020-11-21,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,398.67,12900,396,10,30.9,3.07,1.01,2.525,SYNTHETIC_SIMULATION,True,42
+SPD-0000163,2020-11-21,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,412.97,24306,392,8,16.99,1.613,1.05,2.041,SYNTHETIC_SIMULATION,True,42
+SPD-0000164,2020-11-21,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,564.33,24851,597,13,22.71,2.402,0.95,2.178,SYNTHETIC_SIMULATION,True,42
+SPD-0000165,2020-11-21,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,205.73,27606,273,4,7.45,0.989,0.75,1.465,SYNTHETIC_SIMULATION,True,42
+SPD-0000166,2020-11-21,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,267.91,16829,216,2,15.92,1.283,1.24,0.926,SYNTHETIC_SIMULATION,True,42
+SPD-0000167,2020-11-21,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,272.97,12862,340,7,21.22,2.643,0.8,2.059,SYNTHETIC_SIMULATION,True,42
+SPD-0000168,2020-11-21,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,172.13,12555,357,12,13.71,2.843,0.48,3.361,SYNTHETIC_SIMULATION,True,42
+SPD-0000169,2020-11-22,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,279.7,13226,758,41,21.15,5.731,0.37,5.409,SYNTHETIC_SIMULATION,True,42
+SPD-0000170,2020-11-22,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,397.63,15306,573,16,25.98,3.744,0.69,2.792,SYNTHETIC_SIMULATION,True,42
+SPD-0000171,2020-11-22,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,416.15,26767,461,10,15.55,1.722,0.9,2.169,SYNTHETIC_SIMULATION,True,42
+SPD-0000172,2020-11-22,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,620.85,29549,768,19,21.01,2.599,0.81,2.474,SYNTHETIC_SIMULATION,True,42
+SPD-0000173,2020-11-22,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,237.79,35238,280,3,6.75,0.795,0.85,1.071,SYNTHETIC_SIMULATION,True,42
+SPD-0000174,2020-11-22,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,280.64,24501,219,2,11.45,0.894,1.28,0.913,SYNTHETIC_SIMULATION,True,42
+SPD-0000175,2020-11-22,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,290.34,11779,292,8,24.65,2.479,0.99,2.74,SYNTHETIC_SIMULATION,True,42
+SPD-0000176,2020-11-22,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,191.86,15585,495,12,12.31,3.176,0.39,2.424,SYNTHETIC_SIMULATION,True,42
+SPD-0000177,2020-11-23,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,278.08,11616,635,33,23.94,5.467,0.44,5.197,SYNTHETIC_SIMULATION,True,42
+SPD-0000178,2020-11-23,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,416.88,14467,487,12,28.82,3.366,0.86,2.464,SYNTHETIC_SIMULATION,True,42
+SPD-0000179,2020-11-23,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,376.76,22874,447,11,16.47,1.954,0.84,2.461,SYNTHETIC_SIMULATION,True,42
+SPD-0000180,2020-11-23,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,604.55,24490,483,16,24.69,1.972,1.25,3.313,SYNTHETIC_SIMULATION,True,42
+SPD-0000181,2020-11-23,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,248.93,37016,237,4,6.72,0.64,1.05,1.688,SYNTHETIC_SIMULATION,True,42
+SPD-0000182,2020-11-23,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,286.26,19019,173,2,15.05,0.91,1.65,1.156,SYNTHETIC_SIMULATION,True,42
+SPD-0000183,2020-11-23,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,282.25,13245,331,10,21.31,2.499,0.85,3.021,SYNTHETIC_SIMULATION,True,42
+SPD-0000184,2020-11-23,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,199.42,13173,424,14,15.14,3.219,0.47,3.302,SYNTHETIC_SIMULATION,True,42
+SPD-0000185,2020-11-24,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,309.67,13523,787,33,22.9,5.82,0.39,4.193,SYNTHETIC_SIMULATION,True,42
+SPD-0000186,2020-11-24,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,444.96,17789,595,14,25.01,3.345,0.75,2.353,SYNTHETIC_SIMULATION,True,42
+SPD-0000187,2020-11-24,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,349.47,18016,360,7,19.4,1.998,0.97,1.944,SYNTHETIC_SIMULATION,True,42
+SPD-0000188,2020-11-24,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,617.07,28544,561,21,21.62,1.965,1.1,3.743,SYNTHETIC_SIMULATION,True,42
+SPD-0000189,2020-11-24,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,228.43,31123,213,3,7.34,0.684,1.07,1.408,SYNTHETIC_SIMULATION,True,42
+SPD-0000190,2020-11-24,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,290.09,21975,333,4,13.2,1.515,0.87,1.201,SYNTHETIC_SIMULATION,True,42
+SPD-0000191,2020-11-24,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,277.61,12342,327,9,22.49,2.649,0.85,2.752,SYNTHETIC_SIMULATION,True,42
+SPD-0000192,2020-11-24,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,163.41,10598,427,14,15.42,4.029,0.38,3.279,SYNTHETIC_SIMULATION,True,42
+SPD-0000193,2020-11-25,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,731.62,31910,1542,80,22.93,4.832,0.47,5.188,SYNTHETIC_SIMULATION,True,42
+SPD-0000194,2020-11-25,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,959.31,36935,1269,25,25.97,3.436,0.76,1.97,SYNTHETIC_SIMULATION,True,42
+SPD-0000195,2020-11-25,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,837.92,45704,1113,24,18.33,2.435,0.75,2.156,SYNTHETIC_SIMULATION,True,42
+SPD-0000196,2020-11-25,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,1396.8,66882,1440,38,20.88,2.153,0.97,2.639,SYNTHETIC_SIMULATION,True,42
+SPD-0000197,2020-11-25,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,477.57,49572,471,6,9.63,0.95,1.01,1.274,SYNTHETIC_SIMULATION,True,42
+SPD-0000198,2020-11-25,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,664.34,42359,391,4,15.68,0.923,1.7,1.023,SYNTHETIC_SIMULATION,True,42
+SPD-0000199,2020-11-25,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,745.31,29942,668,20,24.89,2.231,1.12,2.994,SYNTHETIC_SIMULATION,True,42
+SPD-0000200,2020-11-25,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,515.11,33469,1303,44,15.39,3.893,0.4,3.377,SYNTHETIC_SIMULATION,True,42
+SPD-0000201,2020-11-26,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,815.75,43127,2686,127,18.92,6.228,0.3,4.728,SYNTHETIC_SIMULATION,True,42
+SPD-0000202,2020-11-26,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,1055.42,35942,1323,39,29.36,3.681,0.8,2.948,SYNTHETIC_SIMULATION,True,42
+SPD-0000203,2020-11-26,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,898.55,61212,1702,40,14.68,2.781,0.53,2.35,SYNTHETIC_SIMULATION,True,42
+SPD-0000204,2020-11-26,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,1171.37,48229,1455,43,24.29,3.017,0.81,2.955,SYNTHETIC_SIMULATION,True,42
+SPD-0000205,2020-11-26,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,542.46,71414,452,5,7.6,0.633,1.2,1.106,SYNTHETIC_SIMULATION,True,42
+SPD-0000206,2020-11-26,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,733.06,73103,780,7,10.03,1.067,0.94,0.897,SYNTHETIC_SIMULATION,True,42
+SPD-0000207,2020-11-26,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,752.35,27499,776,19,27.36,2.822,0.97,2.448,SYNTHETIC_SIMULATION,True,42
+SPD-0000208,2020-11-26,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,488.49,33201,979,27,14.71,2.949,0.5,2.758,SYNTHETIC_SIMULATION,True,42
+SPD-0000209,2020-11-27,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,685.25,35955,2156,94,19.06,5.996,0.32,4.36,SYNTHETIC_SIMULATION,True,42
+SPD-0000210,2020-11-27,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,1214.41,47394,1443,37,25.62,3.045,0.84,2.564,SYNTHETIC_SIMULATION,True,42
+SPD-0000211,2020-11-27,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,778.78,43311,750,18,17.98,1.732,1.04,2.4,SYNTHETIC_SIMULATION,True,42
+SPD-0000212,2020-11-27,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,1180.87,59847,1149,44,19.73,1.92,1.03,3.829,SYNTHETIC_SIMULATION,True,42
+SPD-0000213,2020-11-27,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,528.35,63037,404,6,8.38,0.641,1.31,1.485,SYNTHETIC_SIMULATION,True,42
+SPD-0000214,2020-11-27,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,613.52,39869,384,3,15.39,0.963,1.6,0.781,SYNTHETIC_SIMULATION,True,42
+SPD-0000215,2020-11-27,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,640.56,26941,867,18,23.78,3.218,0.74,2.076,SYNTHETIC_SIMULATION,True,42
+SPD-0000216,2020-11-27,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,493.69,33539,1190,33,14.72,3.548,0.41,2.773,SYNTHETIC_SIMULATION,True,42
+SPD-0000217,2020-11-28,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,745.14,34888,1732,67,21.36,4.964,0.43,3.868,SYNTHETIC_SIMULATION,True,42
+SPD-0000218,2020-11-28,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,1197.22,38054,1017,22,31.46,2.673,1.18,2.163,SYNTHETIC_SIMULATION,True,42
+SPD-0000219,2020-11-28,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,951.4,57827,886,15,16.45,1.532,1.07,1.693,SYNTHETIC_SIMULATION,True,42
+SPD-0000220,2020-11-28,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,1405.53,64091,1178,28,21.93,1.838,1.19,2.377,SYNTHETIC_SIMULATION,True,42
+SPD-0000221,2020-11-28,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,485.4,55873,342,3,8.69,0.612,1.42,0.877,SYNTHETIC_SIMULATION,True,42
+SPD-0000222,2020-11-28,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,732.46,66159,875,7,11.07,1.323,0.84,0.8,SYNTHETIC_SIMULATION,True,42
+SPD-0000223,2020-11-28,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,654.6,29829,1044,32,21.95,3.5,0.63,3.065,SYNTHETIC_SIMULATION,True,42
+SPD-0000224,2020-11-28,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,501.17,34844,1337,33,14.38,3.837,0.37,2.468,SYNTHETIC_SIMULATION,True,42
+SPD-0000225,2020-11-29,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,720.34,30813,1399,51,23.38,4.54,0.51,3.645,SYNTHETIC_SIMULATION,True,42
+SPD-0000226,2020-11-29,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,985.36,44255,1030,26,22.27,2.327,0.96,2.524,SYNTHETIC_SIMULATION,True,42
+SPD-0000227,2020-11-29,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,890.5,46006,1179,22,19.36,2.563,0.76,1.866,SYNTHETIC_SIMULATION,True,42
+SPD-0000228,2020-11-29,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,1224.73,63074,1657,41,19.42,2.627,0.74,2.474,SYNTHETIC_SIMULATION,True,42
+SPD-0000229,2020-11-29,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,547.67,71707,668,8,7.64,0.932,0.82,1.198,SYNTHETIC_SIMULATION,True,42
+SPD-0000230,2020-11-29,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,630.56,40187,567,4,15.69,1.411,1.11,0.705,SYNTHETIC_SIMULATION,True,42
+SPD-0000231,2020-11-29,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,826.24,34572,1317,39,23.9,3.809,0.63,2.961,SYNTHETIC_SIMULATION,True,42
+SPD-0000232,2020-11-29,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,445.77,36735,1116,32,12.13,3.038,0.4,2.867,SYNTHETIC_SIMULATION,True,42
+SPD-0000233,2020-11-30,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,798.75,40862,2010,104,19.55,4.919,0.4,5.174,SYNTHETIC_SIMULATION,True,42
+SPD-0000234,2020-11-30,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,1236.95,45381,1048,22,27.26,2.309,1.18,2.099,SYNTHETIC_SIMULATION,True,42
+SPD-0000235,2020-11-30,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,780.23,40041,662,14,19.49,1.653,1.18,2.115,SYNTHETIC_SIMULATION,True,42
+SPD-0000236,2020-11-30,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,1230.53,58631,1590,56,20.99,2.712,0.77,3.522,SYNTHETIC_SIMULATION,True,42
+SPD-0000237,2020-11-30,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,481.5,79666,543,9,6.04,0.682,0.89,1.657,SYNTHETIC_SIMULATION,True,42
+SPD-0000238,2020-11-30,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,747.38,55017,704,8,13.58,1.28,1.06,1.136,SYNTHETIC_SIMULATION,True,42
+SPD-0000239,2020-11-30,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,671.54,24585,726,18,27.32,2.953,0.92,2.479,SYNTHETIC_SIMULATION,True,42
+SPD-0000240,2020-11-30,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,458.59,37339,1058,33,12.28,2.833,0.43,3.119,SYNTHETIC_SIMULATION,True,42
+SPD-0000241,2020-12-01,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,447.92,20719,1085,46,21.62,5.237,0.41,4.24,SYNTHETIC_SIMULATION,True,42
+SPD-0000242,2020-12-01,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,674.36,26387,869,19,25.56,3.293,0.78,2.186,SYNTHETIC_SIMULATION,True,42
+SPD-0000243,2020-12-01,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,620.11,36788,869,21,16.86,2.362,0.71,2.417,SYNTHETIC_SIMULATION,True,42
+SPD-0000244,2020-12-01,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,941.4,52491,968,24,17.93,1.844,0.97,2.479,SYNTHETIC_SIMULATION,True,42
+SPD-0000245,2020-12-01,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,362.04,58340,524,7,6.21,0.898,0.69,1.336,SYNTHETIC_SIMULATION,True,42
+SPD-0000246,2020-12-01,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,425.72,29108,258,2,14.63,0.886,1.65,0.775,SYNTHETIC_SIMULATION,True,42
+SPD-0000247,2020-12-01,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,529.95,22114,761,19,23.96,3.441,0.7,2.497,SYNTHETIC_SIMULATION,True,42
+SPD-0000248,2020-12-01,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,280.87,16605,681,21,16.91,4.101,0.41,3.084,SYNTHETIC_SIMULATION,True,42
+SPD-0000249,2020-12-02,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,477.0,22143,1236,46,21.54,5.582,0.39,3.722,SYNTHETIC_SIMULATION,True,42
+SPD-0000250,2020-12-02,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,810.14,34669,1286,30,23.37,3.709,0.63,2.333,SYNTHETIC_SIMULATION,True,42
+SPD-0000251,2020-12-02,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,550.57,31915,841,19,17.25,2.635,0.65,2.259,SYNTHETIC_SIMULATION,True,42
+SPD-0000252,2020-12-02,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,960.93,43820,1213,43,21.93,2.768,0.79,3.545,SYNTHETIC_SIMULATION,True,42
+SPD-0000253,2020-12-02,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,325.56,40911,300,5,7.96,0.733,1.09,1.667,SYNTHETIC_SIMULATION,True,42
+SPD-0000254,2020-12-02,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,507.68,49595,677,9,10.24,1.365,0.75,1.329,SYNTHETIC_SIMULATION,True,42
+SPD-0000255,2020-12-02,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,448.47,18272,703,14,24.54,3.847,0.64,1.991,SYNTHETIC_SIMULATION,True,42
+SPD-0000256,2020-12-02,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,322.0,23360,1016,35,13.78,4.349,0.32,3.445,SYNTHETIC_SIMULATION,True,42
+SPD-0000257,2020-12-03,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,580.24,27836,1972,102,20.84,7.084,0.29,5.172,SYNTHETIC_SIMULATION,True,42
+SPD-0000258,2020-12-03,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,680.93,22481,465,12,30.29,2.068,1.46,2.581,SYNTHETIC_SIMULATION,True,42
+SPD-0000259,2020-12-03,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,558.75,37950,607,13,14.72,1.599,0.92,2.142,SYNTHETIC_SIMULATION,True,42
+SPD-0000260,2020-12-03,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,837.73,37195,704,18,22.52,1.893,1.19,2.557,SYNTHETIC_SIMULATION,True,42
+SPD-0000261,2020-12-03,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,356.17,38871,308,4,9.16,0.792,1.16,1.299,SYNTHETIC_SIMULATION,True,42
+SPD-0000262,2020-12-03,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,499.88,36500,360,2,13.7,0.986,1.39,0.556,SYNTHETIC_SIMULATION,True,42
+SPD-0000263,2020-12-03,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,551.07,27321,1031,27,20.17,3.774,0.53,2.619,SYNTHETIC_SIMULATION,True,42
+SPD-0000264,2020-12-03,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,344.04,20487,921,24,16.79,4.496,0.37,2.606,SYNTHETIC_SIMULATION,True,42
+SPD-0000265,2020-12-04,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,553.04,27094,1609,77,20.41,5.939,0.34,4.786,SYNTHETIC_SIMULATION,True,42
+SPD-0000266,2020-12-04,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,800.71,25147,851,20,31.84,3.384,0.94,2.35,SYNTHETIC_SIMULATION,True,42
+SPD-0000267,2020-12-04,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,593.66,32219,583,9,18.43,1.809,1.02,1.544,SYNTHETIC_SIMULATION,True,42
+SPD-0000268,2020-12-04,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,841.62,45285,1003,24,18.58,2.215,0.84,2.393,SYNTHETIC_SIMULATION,True,42
+SPD-0000269,2020-12-04,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,303.65,50012,596,7,6.07,1.192,0.51,1.174,SYNTHETIC_SIMULATION,True,42
+SPD-0000270,2020-12-04,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,432.45,30718,299,4,14.08,0.973,1.45,1.338,SYNTHETIC_SIMULATION,True,42
+SPD-0000271,2020-12-04,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,538.61,26001,767,23,20.71,2.95,0.7,2.999,SYNTHETIC_SIMULATION,True,42
+SPD-0000272,2020-12-04,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,344.56,23274,867,21,14.8,3.725,0.4,2.422,SYNTHETIC_SIMULATION,True,42
+SPD-0000273,2020-12-05,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,587.44,30296,2220,107,19.39,7.328,0.26,4.82,SYNTHETIC_SIMULATION,True,42
+SPD-0000274,2020-12-05,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,743.27,27400,662,13,27.13,2.416,1.12,1.964,SYNTHETIC_SIMULATION,True,42
+SPD-0000275,2020-12-05,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,557.02,36843,926,17,15.12,2.513,0.6,1.836,SYNTHETIC_SIMULATION,True,42
+SPD-0000276,2020-12-05,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,763.27,30874,938,34,24.72,3.038,0.81,3.625,SYNTHETIC_SIMULATION,True,42
+SPD-0000277,2020-12-05,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,404.26,60377,506,8,6.7,0.838,0.8,1.581,SYNTHETIC_SIMULATION,True,42
+SPD-0000278,2020-12-05,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,474.35,43425,631,5,10.92,1.453,0.75,0.792,SYNTHETIC_SIMULATION,True,42
+SPD-0000279,2020-12-05,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,454.9,18723,612,17,24.3,3.269,0.74,2.778,SYNTHETIC_SIMULATION,True,42
+SPD-0000280,2020-12-05,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,266.74,15450,468,11,17.26,3.029,0.57,2.35,SYNTHETIC_SIMULATION,True,42
+SPD-0000281,2020-12-06,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,571.71,24088,1707,87,23.73,7.087,0.33,5.097,SYNTHETIC_SIMULATION,True,42
+SPD-0000282,2020-12-06,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,753.53,27393,591,14,27.51,2.157,1.28,2.369,SYNTHETIC_SIMULATION,True,42
+SPD-0000283,2020-12-06,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,584.78,37586,917,18,15.56,2.44,0.64,1.963,SYNTHETIC_SIMULATION,True,42
+SPD-0000284,2020-12-06,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,769.4,42788,1179,25,17.98,2.755,0.65,2.12,SYNTHETIC_SIMULATION,True,42
+SPD-0000285,2020-12-06,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,389.09,48755,433,6,7.98,0.888,0.9,1.386,SYNTHETIC_SIMULATION,True,42
+SPD-0000286,2020-12-06,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,491.64,40676,546,6,12.09,1.342,0.9,1.099,SYNTHETIC_SIMULATION,True,42
+SPD-0000287,2020-12-06,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,461.33,17068,620,17,27.03,3.633,0.74,2.742,SYNTHETIC_SIMULATION,True,42
+SPD-0000288,2020-12-06,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,335.97,19529,765,25,17.2,3.917,0.44,3.268,SYNTHETIC_SIMULATION,True,42
+SPD-0000289,2020-12-07,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,542.33,24561,1561,78,22.08,6.356,0.35,4.997,SYNTHETIC_SIMULATION,True,42
+SPD-0000290,2020-12-07,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,646.26,20977,749,14,30.81,3.571,0.86,1.869,SYNTHETIC_SIMULATION,True,42
+SPD-0000291,2020-12-07,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,667.43,45178,874,20,14.77,1.935,0.76,2.288,SYNTHETIC_SIMULATION,True,42
+SPD-0000292,2020-12-07,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,790.44,33835,1003,29,23.36,2.964,0.79,2.891,SYNTHETIC_SIMULATION,True,42
+SPD-0000293,2020-12-07,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,299.87,41951,407,7,7.15,0.97,0.74,1.72,SYNTHETIC_SIMULATION,True,42
+SPD-0000294,2020-12-07,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,465.72,40291,527,5,11.56,1.308,0.88,0.949,SYNTHETIC_SIMULATION,True,42
+SPD-0000295,2020-12-07,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,537.64,25779,920,24,20.86,3.569,0.58,2.609,SYNTHETIC_SIMULATION,True,42
+SPD-0000296,2020-12-07,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,346.22,24640,928,32,14.05,3.766,0.37,3.448,SYNTHETIC_SIMULATION,True,42
+SPD-0000297,2020-12-08,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,450.95,19089,1253,46,23.62,6.564,0.36,3.671,SYNTHETIC_SIMULATION,True,42
+SPD-0000298,2020-12-08,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,677.01,23280,494,12,29.08,2.122,1.37,2.429,SYNTHETIC_SIMULATION,True,42
+SPD-0000299,2020-12-08,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,579.89,32715,510,12,17.73,1.559,1.14,2.353,SYNTHETIC_SIMULATION,True,42
+SPD-0000300,2020-12-08,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,1005.0,40656,1158,26,24.72,2.848,0.87,2.245,SYNTHETIC_SIMULATION,True,42
+SPD-0000301,2020-12-08,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,379.27,62192,381,4,6.1,0.613,1.0,1.05,SYNTHETIC_SIMULATION,True,42
+SPD-0000302,2020-12-08,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,446.47,30533,411,4,14.62,1.346,1.09,0.973,SYNTHETIC_SIMULATION,True,42
+SPD-0000303,2020-12-08,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,462.32,16525,490,12,27.98,2.965,0.94,2.449,SYNTHETIC_SIMULATION,True,42
+SPD-0000304,2020-12-08,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,273.32,16299,634,16,16.77,3.89,0.43,2.524,SYNTHETIC_SIMULATION,True,42
+SPD-0000305,2020-12-09,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,447.85,20280,1311,53,22.08,6.464,0.34,4.043,SYNTHETIC_SIMULATION,True,42
+SPD-0000306,2020-12-09,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,817.39,34767,966,28,23.51,2.778,0.85,2.899,SYNTHETIC_SIMULATION,True,42
+SPD-0000307,2020-12-09,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,593.36,33277,671,12,17.83,2.016,0.88,1.788,SYNTHETIC_SIMULATION,True,42
+SPD-0000308,2020-12-09,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,1007.77,51197,1562,38,19.68,3.051,0.65,2.433,SYNTHETIC_SIMULATION,True,42
+SPD-0000309,2020-12-09,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,321.7,52526,521,6,6.12,0.992,0.62,1.152,SYNTHETIC_SIMULATION,True,42
+SPD-0000310,2020-12-09,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,496.97,38707,609,5,12.84,1.573,0.82,0.821,SYNTHETIC_SIMULATION,True,42
+SPD-0000311,2020-12-09,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,550.85,21015,754,23,26.21,3.588,0.73,3.05,SYNTHETIC_SIMULATION,True,42
+SPD-0000312,2020-12-09,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,327.81,20804,575,13,15.76,2.764,0.57,2.261,SYNTHETIC_SIMULATION,True,42
+SPD-0000313,2020-12-10,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,576.64,26573,1831,82,21.7,6.89,0.31,4.478,SYNTHETIC_SIMULATION,True,42
+SPD-0000314,2020-12-10,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,637.34,27410,886,21,23.25,3.232,0.72,2.37,SYNTHETIC_SIMULATION,True,42
+SPD-0000315,2020-12-10,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,553.38,32649,517,11,16.95,1.584,1.07,2.128,SYNTHETIC_SIMULATION,True,42
+SPD-0000316,2020-12-10,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,819.01,35336,790,22,23.18,2.236,1.04,2.785,SYNTHETIC_SIMULATION,True,42
+SPD-0000317,2020-12-10,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,300.43,47765,399,5,6.29,0.835,0.75,1.253,SYNTHETIC_SIMULATION,True,42
+SPD-0000318,2020-12-10,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,461.44,39272,533,7,11.75,1.357,0.87,1.313,SYNTHETIC_SIMULATION,True,42
+SPD-0000319,2020-12-10,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,537.64,26463,811,17,20.32,3.065,0.66,2.096,SYNTHETIC_SIMULATION,True,42
+SPD-0000320,2020-12-10,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,280.47,15651,436,12,17.92,2.786,0.64,2.752,SYNTHETIC_SIMULATION,True,42
+SPD-0000321,2020-12-11,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,530.15,23865,1475,52,22.21,6.181,0.36,3.525,SYNTHETIC_SIMULATION,True,42
+SPD-0000322,2020-12-11,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,682.52,25114,542,12,27.18,2.158,1.26,2.214,SYNTHETIC_SIMULATION,True,42
+SPD-0000323,2020-12-11,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,522.86,36130,728,12,14.47,2.015,0.72,1.648,SYNTHETIC_SIMULATION,True,42
+SPD-0000324,2020-12-11,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,897.83,40433,1181,28,22.21,2.921,0.76,2.371,SYNTHETIC_SIMULATION,True,42
+SPD-0000325,2020-12-11,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,316.89,49373,485,7,6.42,0.982,0.65,1.443,SYNTHETIC_SIMULATION,True,42
+SPD-0000326,2020-12-11,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,385.05,24655,207,2,15.62,0.84,1.86,0.966,SYNTHETIC_SIMULATION,True,42
+SPD-0000327,2020-12-11,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,527.11,19546,681,20,26.97,3.484,0.77,2.937,SYNTHETIC_SIMULATION,True,42
+SPD-0000328,2020-12-11,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,289.36,17133,456,15,16.89,2.662,0.63,3.289,SYNTHETIC_SIMULATION,True,42
+SPD-0000329,2020-12-12,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,519.31,22674,1328,64,22.9,5.857,0.39,4.819,SYNTHETIC_SIMULATION,True,42
+SPD-0000330,2020-12-12,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,725.7,24754,531,10,29.32,2.145,1.37,1.883,SYNTHETIC_SIMULATION,True,42
+SPD-0000331,2020-12-12,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,561.87,37565,989,17,14.96,2.633,0.57,1.719,SYNTHETIC_SIMULATION,True,42
+SPD-0000332,2020-12-12,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,1005.63,52839,1086,37,19.03,2.055,0.93,3.407,SYNTHETIC_SIMULATION,True,42
+SPD-0000333,2020-12-12,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,368.76,46137,431,7,7.99,0.934,0.86,1.624,SYNTHETIC_SIMULATION,True,42
+SPD-0000334,2020-12-12,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,411.5,25754,407,5,15.98,1.58,1.01,1.229,SYNTHETIC_SIMULATION,True,42
+SPD-0000335,2020-12-12,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,451.29,17738,413,8,25.44,2.328,1.09,1.937,SYNTHETIC_SIMULATION,True,42
+SPD-0000336,2020-12-12,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,281.9,19079,808,25,14.78,4.235,0.35,3.094,SYNTHETIC_SIMULATION,True,42
+SPD-0000337,2020-12-13,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,549.28,26725,1480,63,20.55,5.538,0.37,4.257,SYNTHETIC_SIMULATION,True,42
+SPD-0000338,2020-12-13,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,825.33,36843,1312,33,22.4,3.561,0.63,2.515,SYNTHETIC_SIMULATION,True,42
+SPD-0000339,2020-12-13,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,596.8,32520,694,16,18.35,2.134,0.86,2.305,SYNTHETIC_SIMULATION,True,42
+SPD-0000340,2020-12-13,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,985.79,49799,1089,33,19.8,2.187,0.91,3.03,SYNTHETIC_SIMULATION,True,42
+SPD-0000341,2020-12-13,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,395.55,57807,563,8,6.84,0.974,0.7,1.421,SYNTHETIC_SIMULATION,True,42
+SPD-0000342,2020-12-13,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,479.33,44426,610,8,10.79,1.373,0.79,1.311,SYNTHETIC_SIMULATION,True,42
+SPD-0000343,2020-12-13,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,448.34,20472,808,18,21.9,3.947,0.55,2.228,SYNTHETIC_SIMULATION,True,42
+SPD-0000344,2020-12-13,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,336.32,22491,673,22,14.95,2.992,0.5,3.269,SYNTHETIC_SIMULATION,True,42
+SPD-0000345,2020-12-14,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,503.6,23880,1332,62,21.09,5.578,0.38,4.655,SYNTHETIC_SIMULATION,True,42
+SPD-0000346,2020-12-14,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,647.32,24983,936,20,25.91,3.747,0.69,2.137,SYNTHETIC_SIMULATION,True,42
+SPD-0000347,2020-12-14,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,636.59,39909,1000,16,15.95,2.506,0.64,1.6,SYNTHETIC_SIMULATION,True,42
+SPD-0000348,2020-12-14,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,1004.03,49991,1065,23,20.08,2.13,0.94,2.16,SYNTHETIC_SIMULATION,True,42
+SPD-0000349,2020-12-14,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,317.13,39253,315,5,8.08,0.802,1.01,1.587,SYNTHETIC_SIMULATION,True,42
+SPD-0000350,2020-12-14,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,438.71,38174,494,6,11.49,1.294,0.89,1.215,SYNTHETIC_SIMULATION,True,42
+SPD-0000351,2020-12-14,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,446.46,20920,474,14,21.34,2.266,0.94,2.954,SYNTHETIC_SIMULATION,True,42
+SPD-0000352,2020-12-14,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,318.94,21481,900,29,14.85,4.19,0.35,3.222,SYNTHETIC_SIMULATION,True,42
+SPD-0000353,2020-12-15,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,525.11,22625,1158,43,23.21,5.118,0.45,3.713,SYNTHETIC_SIMULATION,True,42
+SPD-0000354,2020-12-15,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,670.27,29696,878,26,22.57,2.957,0.76,2.961,SYNTHETIC_SIMULATION,True,42
+SPD-0000355,2020-12-15,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,523.98,35566,743,18,14.73,2.089,0.71,2.423,SYNTHETIC_SIMULATION,True,42
+SPD-0000356,2020-12-15,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,831.47,40431,751,17,20.57,1.857,1.11,2.264,SYNTHETIC_SIMULATION,True,42
+SPD-0000357,2020-12-15,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,403.39,40910,247,4,9.86,0.604,1.63,1.619,SYNTHETIC_SIMULATION,True,42
+SPD-0000358,2020-12-15,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,466.7,30689,357,4,15.21,1.163,1.31,1.12,SYNTHETIC_SIMULATION,True,42
+SPD-0000359,2020-12-15,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,494.34,19512,478,10,25.34,2.45,1.03,2.092,SYNTHETIC_SIMULATION,True,42
+SPD-0000360,2020-12-15,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,286.48,17653,513,16,16.23,2.906,0.56,3.119,SYNTHETIC_SIMULATION,True,42
+SPD-0000361,2020-12-16,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,584.18,31469,2051,90,18.56,6.518,0.28,4.388,SYNTHETIC_SIMULATION,True,42
+SPD-0000362,2020-12-16,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,799.52,33634,1092,31,23.77,3.247,0.73,2.839,SYNTHETIC_SIMULATION,True,42
+SPD-0000363,2020-12-16,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,689.1,38073,817,17,18.1,2.146,0.84,2.081,SYNTHETIC_SIMULATION,True,42
+SPD-0000364,2020-12-16,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,977.39,46244,852,31,21.14,1.842,1.15,3.638,SYNTHETIC_SIMULATION,True,42
+SPD-0000365,2020-12-16,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,372.01,42730,312,5,8.71,0.73,1.19,1.603,SYNTHETIC_SIMULATION,True,42
+SPD-0000366,2020-12-16,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,433.74,31188,276,3,13.91,0.885,1.57,1.087,SYNTHETIC_SIMULATION,True,42
+SPD-0000367,2020-12-16,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,570.31,27976,1108,28,20.39,3.961,0.51,2.527,SYNTHETIC_SIMULATION,True,42
+SPD-0000368,2020-12-16,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,337.81,20235,735,23,16.69,3.632,0.46,3.129,SYNTHETIC_SIMULATION,True,42
+SPD-0000369,2020-12-17,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,570.14,27914,1530,74,20.42,5.481,0.37,4.837,SYNTHETIC_SIMULATION,True,42
+SPD-0000370,2020-12-17,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,786.49,26550,912,21,29.62,3.435,0.86,2.303,SYNTHETIC_SIMULATION,True,42
+SPD-0000371,2020-12-17,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,665.97,45239,999,15,14.72,2.208,0.67,1.502,SYNTHETIC_SIMULATION,True,42
+SPD-0000372,2020-12-17,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,833.69,43201,1017,33,19.3,2.354,0.82,3.245,SYNTHETIC_SIMULATION,True,42
+SPD-0000373,2020-12-17,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,340.23,43648,324,4,7.79,0.742,1.05,1.235,SYNTHETIC_SIMULATION,True,42
+SPD-0000374,2020-12-17,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,411.35,39404,505,6,10.44,1.282,0.81,1.188,SYNTHETIC_SIMULATION,True,42
+SPD-0000375,2020-12-17,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,513.78,21671,625,19,23.71,2.884,0.82,3.04,SYNTHETIC_SIMULATION,True,42
+SPD-0000376,2020-12-17,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,305.74,20554,524,14,14.87,2.549,0.58,2.672,SYNTHETIC_SIMULATION,True,42
+SPD-0000377,2020-12-18,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,493.6,24204,1510,69,20.39,6.239,0.33,4.57,SYNTHETIC_SIMULATION,True,42
+SPD-0000378,2020-12-18,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,743.31,25070,868,23,29.65,3.462,0.86,2.65,SYNTHETIC_SIMULATION,True,42
+SPD-0000379,2020-12-18,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,691.09,48981,859,13,14.11,1.754,0.8,1.513,SYNTHETIC_SIMULATION,True,42
+SPD-0000380,2020-12-18,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,918.93,38158,817,30,24.08,2.141,1.12,3.672,SYNTHETIC_SIMULATION,True,42
+SPD-0000381,2020-12-18,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,305.56,31379,254,2,9.74,0.809,1.2,0.787,SYNTHETIC_SIMULATION,True,42
+SPD-0000382,2020-12-18,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,446.1,38655,397,3,11.54,1.027,1.12,0.756,SYNTHETIC_SIMULATION,True,42
+SPD-0000383,2020-12-18,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,541.09,22255,614,17,24.31,2.759,0.88,2.769,SYNTHETIC_SIMULATION,True,42
+SPD-0000384,2020-12-18,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,323.71,23740,790,19,13.64,3.328,0.41,2.405,SYNTHETIC_SIMULATION,True,42
+SPD-0000385,2020-12-19,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,289.39,13102,661,30,22.09,5.045,0.44,4.539,SYNTHETIC_SIMULATION,True,42
+SPD-0000386,2020-12-19,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,478.22,20730,626,13,23.07,3.02,0.76,2.077,SYNTHETIC_SIMULATION,True,42
+SPD-0000387,2020-12-19,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,432.77,25606,652,13,16.9,2.546,0.66,1.994,SYNTHETIC_SIMULATION,True,42
+SPD-0000388,2020-12-19,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,474.66,21875,685,21,21.7,3.131,0.69,3.066,SYNTHETIC_SIMULATION,True,42
+SPD-0000389,2020-12-19,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,241.07,25278,186,2,9.54,0.736,1.3,1.075,SYNTHETIC_SIMULATION,True,42
+SPD-0000390,2020-12-19,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,289.32,23208,342,5,12.47,1.474,0.85,1.462,SYNTHETIC_SIMULATION,True,42
+SPD-0000391,2020-12-19,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,296.37,13536,488,11,21.89,3.605,0.61,2.254,SYNTHETIC_SIMULATION,True,42
+SPD-0000392,2020-12-19,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,208.39,14330,550,13,14.54,3.838,0.38,2.364,SYNTHETIC_SIMULATION,True,42
+SPD-0000393,2020-12-20,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,331.89,16025,1003,38,20.71,6.259,0.33,3.789,SYNTHETIC_SIMULATION,True,42
+SPD-0000394,2020-12-20,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,481.98,15737,376,7,30.63,2.389,1.28,1.862,SYNTHETIC_SIMULATION,True,42
+SPD-0000395,2020-12-20,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,325.69,18244,418,9,17.85,2.291,0.78,2.153,SYNTHETIC_SIMULATION,True,42
+SPD-0000396,2020-12-20,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,505.77,25913,682,20,19.52,2.632,0.74,2.933,SYNTHETIC_SIMULATION,True,42
+SPD-0000397,2020-12-20,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,252.19,38527,392,5,6.55,1.017,0.64,1.276,SYNTHETIC_SIMULATION,True,42
+SPD-0000398,2020-12-20,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,273.97,19151,259,4,14.31,1.352,1.06,1.544,SYNTHETIC_SIMULATION,True,42
+SPD-0000399,2020-12-20,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,275.44,13221,463,12,20.83,3.502,0.59,2.592,SYNTHETIC_SIMULATION,True,42
+SPD-0000400,2020-12-20,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,177.13,14197,379,13,12.48,2.67,0.47,3.43,SYNTHETIC_SIMULATION,True,42
+SPD-0000401,2020-12-21,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,290.42,14565,754,32,19.94,5.177,0.39,4.244,SYNTHETIC_SIMULATION,True,42
+SPD-0000402,2020-12-21,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,391.87,14412,306,8,27.19,2.123,1.28,2.614,SYNTHETIC_SIMULATION,True,42
+SPD-0000403,2020-12-21,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,349.64,20281,536,12,17.24,2.643,0.65,2.239,SYNTHETIC_SIMULATION,True,42
+SPD-0000404,2020-12-21,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,555.44,29359,665,21,18.92,2.265,0.84,3.158,SYNTHETIC_SIMULATION,True,42
+SPD-0000405,2020-12-21,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,252.61,29212,273,4,8.65,0.935,0.93,1.465,SYNTHETIC_SIMULATION,True,42
+SPD-0000406,2020-12-21,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,277.08,26743,334,5,10.36,1.249,0.83,1.497,SYNTHETIC_SIMULATION,True,42
+SPD-0000407,2020-12-21,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,279.8,10964,281,7,25.52,2.563,1.0,2.491,SYNTHETIC_SIMULATION,True,42
+SPD-0000408,2020-12-21,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,167.01,11360,456,12,14.7,4.014,0.37,2.632,SYNTHETIC_SIMULATION,True,42
+SPD-0000409,2020-12-22,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,335.83,14747,1074,43,22.77,7.283,0.31,4.004,SYNTHETIC_SIMULATION,True,42
+SPD-0000410,2020-12-22,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,436.41,18552,702,20,23.52,3.784,0.62,2.849,SYNTHETIC_SIMULATION,True,42
+SPD-0000411,2020-12-22,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,384.56,20185,439,9,19.05,2.175,0.88,2.05,SYNTHETIC_SIMULATION,True,42
+SPD-0000412,2020-12-22,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,482.21,21152,419,15,22.8,1.981,1.15,3.58,SYNTHETIC_SIMULATION,True,42
+SPD-0000413,2020-12-22,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,238.61,27007,168,2,8.84,0.622,1.42,1.19,SYNTHETIC_SIMULATION,True,42
+SPD-0000414,2020-12-22,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,260.1,21388,186,3,12.16,0.87,1.4,1.613,SYNTHETIC_SIMULATION,True,42
+SPD-0000415,2020-12-22,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,315.0,14035,409,10,22.44,2.914,0.77,2.445,SYNTHETIC_SIMULATION,True,42
+SPD-0000416,2020-12-22,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,195.73,12967,563,16,15.09,4.342,0.35,2.842,SYNTHETIC_SIMULATION,True,42
+SPD-0000417,2020-12-23,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,367.25,15892,815,44,23.11,5.128,0.45,5.399,SYNTHETIC_SIMULATION,True,42
+SPD-0000418,2020-12-23,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,398.21,13197,354,10,30.17,2.682,1.12,2.825,SYNTHETIC_SIMULATION,True,42
+SPD-0000419,2020-12-23,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,421.96,22402,566,10,18.84,2.527,0.75,1.767,SYNTHETIC_SIMULATION,True,42
+SPD-0000420,2020-12-23,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,480.85,24500,501,16,19.63,2.045,0.96,3.194,SYNTHETIC_SIMULATION,True,42
+SPD-0000421,2020-12-23,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,209.84,21191,209,3,9.9,0.986,1.0,1.435,SYNTHETIC_SIMULATION,True,42
+SPD-0000422,2020-12-23,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,249.13,16420,253,3,15.17,1.541,0.98,1.186,SYNTHETIC_SIMULATION,True,42
+SPD-0000423,2020-12-23,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,319.88,12247,308,8,26.12,2.515,1.04,2.597,SYNTHETIC_SIMULATION,True,42
+SPD-0000424,2020-12-23,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,184.22,14305,463,11,12.88,3.237,0.4,2.376,SYNTHETIC_SIMULATION,True,42
+SPD-0000425,2020-12-24,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,274.48,14591,1078,50,18.81,7.388,0.25,4.638,SYNTHETIC_SIMULATION,True,42
+SPD-0000426,2020-12-24,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,512.89,19483,499,12,26.33,2.561,1.03,2.405,SYNTHETIC_SIMULATION,True,42
+SPD-0000427,2020-12-24,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,373.1,25495,595,10,14.63,2.334,0.63,1.681,SYNTHETIC_SIMULATION,True,42
+SPD-0000428,2020-12-24,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,569.73,26072,525,11,21.85,2.014,1.09,2.095,SYNTHETIC_SIMULATION,True,42
+SPD-0000429,2020-12-24,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,238.53,30428,193,3,7.84,0.634,1.24,1.554,SYNTHETIC_SIMULATION,True,42
+SPD-0000430,2020-12-24,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,242.85,17138,272,2,14.17,1.587,0.89,0.735,SYNTHETIC_SIMULATION,True,42
+SPD-0000431,2020-12-24,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,276.73,13196,362,8,20.97,2.743,0.76,2.21,SYNTHETIC_SIMULATION,True,42
+SPD-0000432,2020-12-24,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,200.95,16240,571,20,12.37,3.516,0.35,3.503,SYNTHETIC_SIMULATION,True,42
+SPD-0000433,2020-12-25,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,350.14,16142,875,42,21.69,5.421,0.4,4.8,SYNTHETIC_SIMULATION,True,42
+SPD-0000434,2020-12-25,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,453.65,17275,386,11,26.26,2.234,1.18,2.85,SYNTHETIC_SIMULATION,True,42
+SPD-0000435,2020-12-25,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,374.28,24676,488,9,15.17,1.978,0.77,1.844,SYNTHETIC_SIMULATION,True,42
+SPD-0000436,2020-12-25,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,604.04,26724,769,16,22.6,2.878,0.79,2.081,SYNTHETIC_SIMULATION,True,42
+SPD-0000437,2020-12-25,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,214.47,27061,165,2,7.93,0.61,1.3,1.212,SYNTHETIC_SIMULATION,True,42
+SPD-0000438,2020-12-25,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,301.86,27891,343,3,10.82,1.23,0.88,0.875,SYNTHETIC_SIMULATION,True,42
+SPD-0000439,2020-12-25,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,264.63,12067,477,14,21.93,3.953,0.55,2.935,SYNTHETIC_SIMULATION,True,42
+SPD-0000440,2020-12-25,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,216.2,14484,394,11,14.93,2.72,0.55,2.792,SYNTHETIC_SIMULATION,True,42
+SPD-0000441,2020-12-26,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,410.31,17788,853,38,23.07,4.795,0.48,4.455,SYNTHETIC_SIMULATION,True,42
+SPD-0000442,2020-12-26,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,523.58,20739,690,16,25.25,3.327,0.76,2.319,SYNTHETIC_SIMULATION,True,42
+SPD-0000443,2020-12-26,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,475.61,29059,609,14,16.37,2.096,0.78,2.299,SYNTHETIC_SIMULATION,True,42
+SPD-0000444,2020-12-26,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,799.1,32486,943,24,24.6,2.903,0.85,2.545,SYNTHETIC_SIMULATION,True,42
+SPD-0000445,2020-12-26,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,302.14,38984,293,5,7.75,0.752,1.03,1.706,SYNTHETIC_SIMULATION,True,42
+SPD-0000446,2020-12-26,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,313.6,20350,238,3,15.41,1.17,1.32,1.261,SYNTHETIC_SIMULATION,True,42
+SPD-0000447,2020-12-26,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,422.27,15547,520,14,27.16,3.345,0.81,2.692,SYNTHETIC_SIMULATION,True,42
+SPD-0000448,2020-12-26,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,214.89,14221,398,13,15.11,2.799,0.54,3.266,SYNTHETIC_SIMULATION,True,42
+SPD-0000449,2020-12-27,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,417.53,18909,875,32,22.08,4.627,0.48,3.657,SYNTHETIC_SIMULATION,True,42
+SPD-0000450,2020-12-27,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,622.96,27418,584,11,22.72,2.13,1.07,1.884,SYNTHETIC_SIMULATION,True,42
+SPD-0000451,2020-12-27,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,561.65,30483,597,11,18.43,1.958,0.94,1.843,SYNTHETIC_SIMULATION,True,42
+SPD-0000452,2020-12-27,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,682.76,29722,810,19,22.97,2.725,0.84,2.346,SYNTHETIC_SIMULATION,True,42
+SPD-0000453,2020-12-27,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,258.04,40359,402,6,6.39,0.996,0.64,1.493,SYNTHETIC_SIMULATION,True,42
+SPD-0000454,2020-12-27,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,338.34,33414,289,4,10.13,0.865,1.17,1.384,SYNTHETIC_SIMULATION,True,42
+SPD-0000455,2020-12-27,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,378.27,14463,481,12,26.15,3.326,0.79,2.495,SYNTHETIC_SIMULATION,True,42
+SPD-0000456,2020-12-27,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,225.19,17692,660,21,12.73,3.73,0.34,3.182,SYNTHETIC_SIMULATION,True,42
+SPD-0000457,2020-12-28,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,433.96,20487,948,52,21.18,4.627,0.46,5.485,SYNTHETIC_SIMULATION,True,42
+SPD-0000458,2020-12-28,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,637.42,25570,962,24,24.93,3.762,0.66,2.495,SYNTHETIC_SIMULATION,True,42
+SPD-0000459,2020-12-28,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,506.22,27380,700,15,18.49,2.557,0.72,2.143,SYNTHETIC_SIMULATION,True,42
+SPD-0000460,2020-12-28,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,635.23,33355,1034,25,19.04,3.1,0.61,2.418,SYNTHETIC_SIMULATION,True,42
+SPD-0000461,2020-12-28,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,275.03,35587,307,4,7.73,0.863,0.9,1.303,SYNTHETIC_SIMULATION,True,42
+SPD-0000462,2020-12-28,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,412.38,36034,323,2,11.44,0.896,1.28,0.619,SYNTHETIC_SIMULATION,True,42
+SPD-0000463,2020-12-28,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,449.78,17872,485,14,25.17,2.714,0.93,2.887,SYNTHETIC_SIMULATION,True,42
+SPD-0000464,2020-12-28,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,273.78,16030,695,18,17.08,4.336,0.39,2.59,SYNTHETIC_SIMULATION,True,42
+SPD-0000465,2020-12-29,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,447.83,21568,1515,75,20.76,7.024,0.3,4.95,SYNTHETIC_SIMULATION,True,42
+SPD-0000466,2020-12-29,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,633.52,22181,514,13,28.56,2.317,1.23,2.529,SYNTHETIC_SIMULATION,True,42
+SPD-0000467,2020-12-29,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,565.83,28833,449,7,19.62,1.557,1.26,1.559,SYNTHETIC_SIMULATION,True,42
+SPD-0000468,2020-12-29,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,636.01,28225,831,20,22.53,2.944,0.77,2.407,SYNTHETIC_SIMULATION,True,42
+SPD-0000469,2020-12-29,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,286.5,30600,318,4,9.36,1.039,0.9,1.258,SYNTHETIC_SIMULATION,True,42
+SPD-0000470,2020-12-29,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,373.87,28649,297,3,13.05,1.037,1.26,1.01,SYNTHETIC_SIMULATION,True,42
+SPD-0000471,2020-12-29,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,425.84,15780,528,15,26.99,3.346,0.81,2.841,SYNTHETIC_SIMULATION,True,42
+SPD-0000472,2020-12-29,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,221.81,15018,378,10,14.77,2.517,0.59,2.646,SYNTHETIC_SIMULATION,True,42
+SPD-0000473,2020-12-30,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,444.26,18549,890,38,23.95,4.798,0.5,4.27,SYNTHETIC_SIMULATION,True,42
+SPD-0000474,2020-12-30,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,637.66,26525,796,21,24.04,3.001,0.8,2.638,SYNTHETIC_SIMULATION,True,42
+SPD-0000475,2020-12-30,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,511.19,33791,663,15,15.13,1.962,0.77,2.262,SYNTHETIC_SIMULATION,True,42
+SPD-0000476,2020-12-30,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,726.63,45281,1297,27,16.05,2.864,0.56,2.082,SYNTHETIC_SIMULATION,True,42
+SPD-0000477,2020-12-30,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,307.08,45093,530,6,6.81,1.175,0.58,1.132,SYNTHETIC_SIMULATION,True,42
+SPD-0000478,2020-12-30,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,345.1,31680,331,4,10.89,1.045,1.04,1.208,SYNTHETIC_SIMULATION,True,42
+SPD-0000479,2020-12-30,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,463.01,20178,607,17,22.95,3.008,0.76,2.801,SYNTHETIC_SIMULATION,True,42
+SPD-0000480,2020-12-30,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,275.62,17715,582,16,15.56,3.285,0.47,2.749,SYNTHETIC_SIMULATION,True,42
+SPD-0000481,2020-12-31,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,440.41,24441,1554,65,18.02,6.358,0.28,4.183,SYNTHETIC_SIMULATION,True,42
+SPD-0000482,2020-12-31,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,636.63,27764,849,20,22.93,3.058,0.75,2.356,SYNTHETIC_SIMULATION,True,42
+SPD-0000483,2020-12-31,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,515.09,35797,807,17,14.39,2.254,0.64,2.107,SYNTHETIC_SIMULATION,True,42
+SPD-0000484,2020-12-31,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,728.01,33969,933,32,21.43,2.747,0.78,3.43,SYNTHETIC_SIMULATION,True,42
+SPD-0000485,2020-12-31,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,266.25,28628,257,2,9.3,0.898,1.04,0.778,SYNTHETIC_SIMULATION,True,42
+SPD-0000486,2020-12-31,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,315.79,26304,376,4,12.01,1.429,0.84,1.064,SYNTHETIC_SIMULATION,True,42
+SPD-0000487,2020-12-31,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,437.89,18141,543,12,24.14,2.993,0.81,2.21,SYNTHETIC_SIMULATION,True,42
+SPD-0000488,2020-12-31,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,234.27,16041,429,11,14.6,2.674,0.55,2.564,SYNTHETIC_SIMULATION,True,42
+SPD-0000489,2021-01-01,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,428.26,19107,1432,77,22.41,7.495,0.3,5.377,SYNTHETIC_SIMULATION,True,42
+SPD-0000490,2021-01-01,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,610.02,23272,732,20,26.21,3.145,0.83,2.732,SYNTHETIC_SIMULATION,True,42
+SPD-0000491,2021-01-01,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,437.44,26577,689,13,16.46,2.592,0.63,1.887,SYNTHETIC_SIMULATION,True,42
+SPD-0000492,2021-01-01,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,730.42,34308,706,19,21.29,2.058,1.03,2.691,SYNTHETIC_SIMULATION,True,42
+SPD-0000493,2021-01-01,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,271.8,44522,274,4,6.1,0.615,0.99,1.46,SYNTHETIC_SIMULATION,True,42
+SPD-0000494,2021-01-01,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,339.22,25878,269,4,13.11,1.039,1.26,1.487,SYNTHETIC_SIMULATION,True,42
+SPD-0000495,2021-01-01,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,373.9,15953,602,18,23.44,3.774,0.62,2.99,SYNTHETIC_SIMULATION,True,42
+SPD-0000496,2021-01-01,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,223.74,13305,455,13,16.82,3.42,0.49,2.857,SYNTHETIC_SIMULATION,True,42
+SPD-0000497,2021-01-02,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,370.26,20032,1339,60,18.48,6.684,0.28,4.481,SYNTHETIC_SIMULATION,True,42
+SPD-0000498,2021-01-02,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,573.92,19591,662,13,29.3,3.379,0.87,1.964,SYNTHETIC_SIMULATION,True,42
+SPD-0000499,2021-01-02,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,510.34,34454,853,18,14.81,2.476,0.6,2.11,SYNTHETIC_SIMULATION,True,42
+SPD-0000500,2021-01-02,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,812.94,48912,919,23,16.62,1.879,0.88,2.503,SYNTHETIC_SIMULATION,True,42
+SPD-0000501,2021-01-02,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,265.55,38001,435,5,6.99,1.145,0.61,1.149,SYNTHETIC_SIMULATION,True,42
+SPD-0000502,2021-01-02,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,339.1,23296,270,3,14.56,1.159,1.26,1.111,SYNTHETIC_SIMULATION,True,42
+SPD-0000503,2021-01-02,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,350.45,14663,331,7,23.9,2.257,1.06,2.115,SYNTHETIC_SIMULATION,True,42
+SPD-0000504,2021-01-02,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,277.12,21590,770,21,12.84,3.566,0.36,2.727,SYNTHETIC_SIMULATION,True,42
+SPD-0000505,2021-01-03,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,396.95,16964,774,37,23.4,4.563,0.51,4.78,SYNTHETIC_SIMULATION,True,42
+SPD-0000506,2021-01-03,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,666.33,24141,890,17,27.6,3.687,0.75,1.91,SYNTHETIC_SIMULATION,True,42
+SPD-0000507,2021-01-03,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,481.97,30973,759,19,15.56,2.451,0.64,2.503,SYNTHETIC_SIMULATION,True,42
+SPD-0000508,2021-01-03,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,662.78,30281,629,19,21.89,2.077,1.05,3.021,SYNTHETIC_SIMULATION,True,42
+SPD-0000509,2021-01-03,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,282.91,28611,276,3,9.89,0.965,1.03,1.087,SYNTHETIC_SIMULATION,True,42
+SPD-0000510,2021-01-03,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,321.86,29508,289,2,10.91,0.979,1.11,0.692,SYNTHETIC_SIMULATION,True,42
+SPD-0000511,2021-01-03,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,445.39,18187,571,12,24.49,3.14,0.78,2.102,SYNTHETIC_SIMULATION,True,42
+SPD-0000512,2021-01-03,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,273.69,16753,441,14,16.34,2.632,0.62,3.175,SYNTHETIC_SIMULATION,True,42
+SPD-0000513,2021-01-04,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,421.43,22792,1339,60,18.49,5.875,0.31,4.481,SYNTHETIC_SIMULATION,True,42
+SPD-0000514,2021-01-04,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,526.34,16732,591,15,31.46,3.532,0.89,2.538,SYNTHETIC_SIMULATION,True,42
+SPD-0000515,2021-01-04,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,488.41,29653,696,14,16.47,2.347,0.7,2.011,SYNTHETIC_SIMULATION,True,42
+SPD-0000516,2021-01-04,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,621.11,30133,883,25,20.61,2.93,0.7,2.831,SYNTHETIC_SIMULATION,True,42
+SPD-0000517,2021-01-04,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,247.56,27070,195,2,9.15,0.72,1.27,1.026,SYNTHETIC_SIMULATION,True,42
+SPD-0000518,2021-01-04,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,327.39,27325,384,4,11.98,1.405,0.85,1.042,SYNTHETIC_SIMULATION,True,42
+SPD-0000519,2021-01-04,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,367.32,13593,514,16,27.02,3.781,0.71,3.113,SYNTHETIC_SIMULATION,True,42
+SPD-0000520,2021-01-04,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,227.64,15478,692,22,14.71,4.471,0.33,3.179,SYNTHETIC_SIMULATION,True,42
+SPD-0000521,2021-01-05,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,356.99,19411,1144,61,18.39,5.894,0.31,5.332,SYNTHETIC_SIMULATION,True,42
+SPD-0000522,2021-01-05,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,591.79,21936,480,12,26.98,2.188,1.23,2.5,SYNTHETIC_SIMULATION,True,42
+SPD-0000523,2021-01-05,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,541.74,33271,835,21,16.28,2.51,0.65,2.515,SYNTHETIC_SIMULATION,True,42
+SPD-0000524,2021-01-05,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,651.46,31456,693,24,20.71,2.203,0.94,3.463,SYNTHETIC_SIMULATION,True,42
+SPD-0000525,2021-01-05,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,292.66,34276,370,4,8.54,1.079,0.79,1.081,SYNTHETIC_SIMULATION,True,42
+SPD-0000526,2021-01-05,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,409.33,31014,287,3,13.2,0.925,1.43,1.045,SYNTHETIC_SIMULATION,True,42
+SPD-0000527,2021-01-05,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,438.46,19458,728,22,22.53,3.741,0.6,3.022,SYNTHETIC_SIMULATION,True,42
+SPD-0000528,2021-01-05,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,230.47,12875,358,9,17.9,2.781,0.64,2.514,SYNTHETIC_SIMULATION,True,42
+SPD-0000529,2021-01-06,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,289.69,12399,801,30,23.36,6.46,0.36,3.745,SYNTHETIC_SIMULATION,True,42
+SPD-0000530,2021-01-06,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,441.94,15698,338,10,28.15,2.153,1.31,2.959,SYNTHETIC_SIMULATION,True,42
+SPD-0000531,2021-01-06,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,414.61,24344,671,13,17.03,2.756,0.62,1.937,SYNTHETIC_SIMULATION,True,42
+SPD-0000532,2021-01-06,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,629.88,28616,769,18,22.01,2.687,0.82,2.341,SYNTHETIC_SIMULATION,True,42
+SPD-0000533,2021-01-06,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,245.21,31804,222,2,7.71,0.698,1.1,0.901,SYNTHETIC_SIMULATION,True,42
+SPD-0000534,2021-01-06,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,285.02,21651,298,4,13.16,1.376,0.96,1.342,SYNTHETIC_SIMULATION,True,42
+SPD-0000535,2021-01-06,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,270.88,10478,266,8,25.85,2.539,1.02,3.008,SYNTHETIC_SIMULATION,True,42
+SPD-0000536,2021-01-06,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,208.19,13656,535,14,15.25,3.918,0.39,2.617,SYNTHETIC_SIMULATION,True,42
+SPD-0000537,2021-01-07,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,317.23,13835,813,34,22.93,5.876,0.39,4.182,SYNTHETIC_SIMULATION,True,42
+SPD-0000538,2021-01-07,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,449.22,14834,386,8,30.28,2.602,1.16,2.073,SYNTHETIC_SIMULATION,True,42
+SPD-0000539,2021-01-07,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,404.17,21322,348,6,18.96,1.632,1.16,1.724,SYNTHETIC_SIMULATION,True,42
+SPD-0000540,2021-01-07,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,490.93,25661,624,21,19.13,2.432,0.79,3.365,SYNTHETIC_SIMULATION,True,42
+SPD-0000541,2021-01-07,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,229.98,27108,220,4,8.48,0.812,1.05,1.818,SYNTHETIC_SIMULATION,True,42
+SPD-0000542,2021-01-07,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,277.59,17486,229,2,15.87,1.31,1.21,0.873,SYNTHETIC_SIMULATION,True,42
+SPD-0000543,2021-01-07,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,326.38,14441,496,10,22.6,3.435,0.66,2.016,SYNTHETIC_SIMULATION,True,42
+SPD-0000544,2021-01-07,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,171.47,10007,296,10,17.14,2.958,0.58,3.378,SYNTHETIC_SIMULATION,True,42
+SPD-0000545,2021-01-08,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,298.81,13671,900,41,21.86,6.583,0.33,4.556,SYNTHETIC_SIMULATION,True,42
+SPD-0000546,2021-01-08,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,423.72,17562,362,8,24.13,2.061,1.17,2.21,SYNTHETIC_SIMULATION,True,42
+SPD-0000547,2021-01-08,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,397.46,20248,533,12,19.63,2.632,0.75,2.251,SYNTHETIC_SIMULATION,True,42
+SPD-0000548,2021-01-08,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,597.59,27182,588,21,21.98,2.163,1.02,3.571,SYNTHETIC_SIMULATION,True,42
+SPD-0000549,2021-01-08,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,231.27,28061,187,2,8.24,0.666,1.24,1.07,SYNTHETIC_SIMULATION,True,42
+SPD-0000550,2021-01-08,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,276.67,18217,225,2,15.19,1.235,1.23,0.889,SYNTHETIC_SIMULATION,True,42
+SPD-0000551,2021-01-08,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,354.34,16966,502,10,20.89,2.959,0.71,1.992,SYNTHETIC_SIMULATION,True,42
+SPD-0000552,2021-01-08,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,203.67,11633,356,12,17.51,3.06,0.57,3.371,SYNTHETIC_SIMULATION,True,42
+SPD-0000553,2021-01-09,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,300.05,12787,865,44,23.47,6.765,0.35,5.087,SYNTHETIC_SIMULATION,True,42
+SPD-0000554,2021-01-09,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,384.93,12171,403,9,31.63,3.311,0.96,2.233,SYNTHETIC_SIMULATION,True,42
+SPD-0000555,2021-01-09,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,417.55,26614,701,11,15.69,2.634,0.6,1.569,SYNTHETIC_SIMULATION,True,42
+SPD-0000556,2021-01-09,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,583.61,27969,541,13,20.87,1.934,1.08,2.403,SYNTHETIC_SIMULATION,True,42
+SPD-0000557,2021-01-09,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,187.82,23850,186,3,7.88,0.78,1.01,1.613,SYNTHETIC_SIMULATION,True,42
+SPD-0000558,2021-01-09,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,262.97,22287,311,2,11.8,1.395,0.85,0.643,SYNTHETIC_SIMULATION,True,42
+SPD-0000559,2021-01-09,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,347.47,12957,441,12,26.82,3.404,0.79,2.721,SYNTHETIC_SIMULATION,True,42
+SPD-0000560,2021-01-09,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,212.36,16196,430,11,13.11,2.655,0.49,2.558,SYNTHETIC_SIMULATION,True,42
+SPD-0000561,2021-01-10,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,348.28,19128,1195,66,18.21,6.247,0.29,5.523,SYNTHETIC_SIMULATION,True,42
+SPD-0000562,2021-01-10,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,498.02,18300,387,11,27.21,2.115,1.29,2.842,SYNTHETIC_SIMULATION,True,42
+SPD-0000563,2021-01-10,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,391.28,26637,432,10,14.69,1.622,0.91,2.315,SYNTHETIC_SIMULATION,True,42
+SPD-0000564,2021-01-10,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,577.92,24631,746,23,23.46,3.029,0.77,3.083,SYNTHETIC_SIMULATION,True,42
+SPD-0000565,2021-01-10,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,221.15,28640,226,3,7.72,0.789,0.98,1.327,SYNTHETIC_SIMULATION,True,42
+SPD-0000566,2021-01-10,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,303.01,22261,337,3,13.61,1.514,0.9,0.89,SYNTHETIC_SIMULATION,True,42
+SPD-0000567,2021-01-10,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,319.96,12773,417,12,25.05,3.265,0.77,2.878,SYNTHETIC_SIMULATION,True,42
+SPD-0000568,2021-01-10,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,175.03,11611,314,8,15.07,2.704,0.56,2.548,SYNTHETIC_SIMULATION,True,42
+SPD-0000569,2021-01-11,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,318.82,14549,1070,50,21.91,7.354,0.3,4.673,SYNTHETIC_SIMULATION,True,42
+SPD-0000570,2021-01-11,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,482.89,17843,561,11,27.06,3.144,0.86,1.961,SYNTHETIC_SIMULATION,True,42
+SPD-0000571,2021-01-11,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,352.0,21767,460,7,16.17,2.113,0.77,1.522,SYNTHETIC_SIMULATION,True,42
+SPD-0000572,2021-01-11,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,490.6,26531,838,22,18.49,3.159,0.59,2.625,SYNTHETIC_SIMULATION,True,42
+SPD-0000573,2021-01-11,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,218.81,32252,312,3,6.78,0.967,0.7,0.962,SYNTHETIC_SIMULATION,True,42
+SPD-0000574,2021-01-11,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,255.39,19496,157,1,13.1,0.805,1.63,0.637,SYNTHETIC_SIMULATION,True,42
+SPD-0000575,2021-01-11,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,283.87,13988,335,8,20.29,2.395,0.85,2.388,SYNTHETIC_SIMULATION,True,42
+SPD-0000576,2021-01-11,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,207.25,13430,473,12,15.43,3.522,0.44,2.537,SYNTHETIC_SIMULATION,True,42
+SPD-0000577,2021-01-12,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,361.45,17734,844,40,20.38,4.759,0.43,4.739,SYNTHETIC_SIMULATION,True,42
+SPD-0000578,2021-01-12,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,397.87,15632,455,13,25.45,2.911,0.87,2.857,SYNTHETIC_SIMULATION,True,42
+SPD-0000579,2021-01-12,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,379.26,20823,581,9,18.21,2.79,0.65,1.549,SYNTHETIC_SIMULATION,True,42
+SPD-0000580,2021-01-12,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,512.83,26230,627,17,19.55,2.39,0.82,2.711,SYNTHETIC_SIMULATION,True,42
+SPD-0000581,2021-01-12,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,246.9,27879,269,3,8.86,0.965,0.92,1.115,SYNTHETIC_SIMULATION,True,42
+SPD-0000582,2021-01-12,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,307.2,19529,285,2,15.73,1.459,1.08,0.702,SYNTHETIC_SIMULATION,True,42
+SPD-0000583,2021-01-12,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,322.69,15811,421,9,20.41,2.663,0.77,2.138,SYNTHETIC_SIMULATION,True,42
+SPD-0000584,2021-01-12,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,195.92,12154,332,9,16.12,2.732,0.59,2.711,SYNTHETIC_SIMULATION,True,42
+SPD-0000585,2021-01-13,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,315.8,15623,760,33,20.21,4.865,0.42,4.342,SYNTHETIC_SIMULATION,True,42
+SPD-0000586,2021-01-13,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,483.91,21308,457,10,22.71,2.145,1.06,2.188,SYNTHETIC_SIMULATION,True,42
+SPD-0000587,2021-01-13,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,430.36,23894,569,11,18.01,2.381,0.76,1.933,SYNTHETIC_SIMULATION,True,42
+SPD-0000588,2021-01-13,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,565.45,35140,945,34,16.09,2.689,0.6,3.598,SYNTHETIC_SIMULATION,True,42
+SPD-0000589,2021-01-13,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,227.43,23953,248,2,9.49,1.035,0.92,0.806,SYNTHETIC_SIMULATION,True,42
+SPD-0000590,2021-01-13,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,313.81,30178,370,3,10.4,1.226,0.85,0.811,SYNTHETIC_SIMULATION,True,42
+SPD-0000591,2021-01-13,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,264.59,11319,309,8,23.38,2.73,0.86,2.589,SYNTHETIC_SIMULATION,True,42
+SPD-0000592,2021-01-13,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,194.4,15853,435,13,12.26,2.744,0.45,2.989,SYNTHETIC_SIMULATION,True,42
+SPD-0000593,2021-01-14,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,304.94,13629,880,46,22.37,6.457,0.35,5.227,SYNTHETIC_SIMULATION,True,42
+SPD-0000594,2021-01-14,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,475.99,18099,581,12,26.3,3.21,0.82,2.065,SYNTHETIC_SIMULATION,True,42
+SPD-0000595,2021-01-14,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,357.92,19105,397,9,18.73,2.078,0.9,2.267,SYNTHETIC_SIMULATION,True,42
+SPD-0000596,2021-01-14,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,603.2,25432,784,22,23.72,3.083,0.77,2.806,SYNTHETIC_SIMULATION,True,42
+SPD-0000597,2021-01-14,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,208.05,24980,206,3,8.33,0.825,1.01,1.456,SYNTHETIC_SIMULATION,True,42
+SPD-0000598,2021-01-14,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,297.27,21038,231,2,14.13,1.098,1.29,0.866,SYNTHETIC_SIMULATION,True,42
+SPD-0000599,2021-01-14,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,303.54,14358,546,13,21.14,3.803,0.56,2.381,SYNTHETIC_SIMULATION,True,42
+SPD-0000600,2021-01-14,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,170.3,14013,531,16,12.15,3.789,0.32,3.013,SYNTHETIC_SIMULATION,True,42
+SPD-0000601,2021-01-15,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,304.7,16533,947,39,18.43,5.728,0.32,4.118,SYNTHETIC_SIMULATION,True,42
+SPD-0000602,2021-01-15,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,473.91,16890,449,9,28.06,2.658,1.06,2.004,SYNTHETIC_SIMULATION,True,42
+SPD-0000603,2021-01-15,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,435.64,26049,624,10,16.72,2.395,0.7,1.603,SYNTHETIC_SIMULATION,True,42
+SPD-0000604,2021-01-15,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,547.62,33704,845,32,16.25,2.507,0.65,3.787,SYNTHETIC_SIMULATION,True,42
+SPD-0000605,2021-01-15,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,212.36,34497,213,3,6.16,0.617,1.0,1.408,SYNTHETIC_SIMULATION,True,42
+SPD-0000606,2021-01-15,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,251.44,24797,348,3,10.14,1.403,0.72,0.862,SYNTHETIC_SIMULATION,True,42
+SPD-0000607,2021-01-15,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,290.4,10676,257,8,27.2,2.407,1.13,3.113,SYNTHETIC_SIMULATION,True,42
+SPD-0000608,2021-01-15,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,179.4,10352,384,13,17.33,3.709,0.47,3.385,SYNTHETIC_SIMULATION,True,42
+SPD-0000609,2021-01-16,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,366.47,18574,1371,59,19.73,7.381,0.27,4.303,SYNTHETIC_SIMULATION,True,42
+SPD-0000610,2021-01-16,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,434.54,17105,509,10,25.4,2.976,0.85,1.965,SYNTHETIC_SIMULATION,True,42
+SPD-0000611,2021-01-16,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,386.12,22383,557,13,17.25,2.488,0.69,2.334,SYNTHETIC_SIMULATION,True,42
+SPD-0000612,2021-01-16,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,540.17,28854,624,15,18.72,2.163,0.87,2.404,SYNTHETIC_SIMULATION,True,42
+SPD-0000613,2021-01-16,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,190.8,25889,197,3,7.37,0.761,0.97,1.523,SYNTHETIC_SIMULATION,True,42
+SPD-0000614,2021-01-16,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,284.85,23573,298,2,12.08,1.264,0.96,0.671,SYNTHETIC_SIMULATION,True,42
+SPD-0000615,2021-01-16,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,304.8,12187,375,9,25.01,3.077,0.81,2.4,SYNTHETIC_SIMULATION,True,42
+SPD-0000616,2021-01-16,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,218.15,12623,473,14,17.28,3.747,0.46,2.96,SYNTHETIC_SIMULATION,True,42
+SPD-0000617,2021-01-17,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,331.58,17263,981,35,19.21,5.683,0.34,3.568,SYNTHETIC_SIMULATION,True,42
+SPD-0000618,2021-01-17,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,446.7,16285,392,12,27.43,2.407,1.14,3.061,SYNTHETIC_SIMULATION,True,42
+SPD-0000619,2021-01-17,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,426.68,23274,510,12,18.33,2.191,0.84,2.353,SYNTHETIC_SIMULATION,True,42
+SPD-0000620,2021-01-17,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,489.06,21158,418,14,23.11,1.976,1.17,3.349,SYNTHETIC_SIMULATION,True,42
+SPD-0000621,2021-01-17,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,205.2,21581,252,2,9.51,1.168,0.81,0.794,SYNTHETIC_SIMULATION,True,42
+SPD-0000622,2021-01-17,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,276.86,17428,207,3,15.89,1.188,1.34,1.449,SYNTHETIC_SIMULATION,True,42
+SPD-0000623,2021-01-17,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,318.25,13835,376,8,23.0,2.718,0.85,2.128,SYNTHETIC_SIMULATION,True,42
+SPD-0000624,2021-01-17,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,204.92,14311,504,14,14.32,3.522,0.41,2.778,SYNTHETIC_SIMULATION,True,42
+SPD-0000625,2021-01-18,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,327.42,14117,1051,45,23.19,7.445,0.31,4.282,SYNTHETIC_SIMULATION,True,42
+SPD-0000626,2021-01-18,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,494.22,16671,506,15,29.65,3.035,0.98,2.964,SYNTHETIC_SIMULATION,True,42
+SPD-0000627,2021-01-18,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,345.85,23599,616,12,14.66,2.61,0.56,1.948,SYNTHETIC_SIMULATION,True,42
+SPD-0000628,2021-01-18,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,607.25,25262,477,17,24.04,1.888,1.27,3.564,SYNTHETIC_SIMULATION,True,42
+SPD-0000629,2021-01-18,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,216.59,26933,263,5,8.04,0.976,0.82,1.901,SYNTHETIC_SIMULATION,True,42
+SPD-0000630,2021-01-18,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,239.61,18631,252,3,12.86,1.353,0.95,1.19,SYNTHETIC_SIMULATION,True,42
+SPD-0000631,2021-01-18,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,327.91,15559,426,10,21.08,2.738,0.77,2.347,SYNTHETIC_SIMULATION,True,42
+SPD-0000632,2021-01-18,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,207.35,15165,443,15,13.67,2.921,0.47,3.386,SYNTHETIC_SIMULATION,True,42
+SPD-0000633,2021-01-19,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,272.85,11375,743,38,23.99,6.532,0.37,5.114,SYNTHETIC_SIMULATION,True,42
+SPD-0000634,2021-01-19,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,422.27,19070,635,18,22.14,3.33,0.66,2.835,SYNTHETIC_SIMULATION,True,42
+SPD-0000635,2021-01-19,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,407.41,27422,680,15,14.86,2.48,0.6,2.206,SYNTHETIC_SIMULATION,True,42
+SPD-0000636,2021-01-19,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,576.16,25165,751,23,22.9,2.984,0.77,3.063,SYNTHETIC_SIMULATION,True,42
+SPD-0000637,2021-01-19,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,192.85,24256,157,2,7.95,0.647,1.23,1.274,SYNTHETIC_SIMULATION,True,42
+SPD-0000638,2021-01-19,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,272.2,26183,283,2,10.4,1.081,0.96,0.707,SYNTHETIC_SIMULATION,True,42
+SPD-0000639,2021-01-19,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,338.67,12279,286,9,27.58,2.329,1.18,3.147,SYNTHETIC_SIMULATION,True,42
+SPD-0000640,2021-01-19,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,191.29,13864,368,10,13.8,2.654,0.52,2.717,SYNTHETIC_SIMULATION,True,42
+SPD-0000641,2021-01-20,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,348.27,15658,728,27,22.24,4.649,0.48,3.709,SYNTHETIC_SIMULATION,True,42
+SPD-0000642,2021-01-20,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,436.89,17509,423,9,24.95,2.416,1.03,2.128,SYNTHETIC_SIMULATION,True,42
+SPD-0000643,2021-01-20,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,414.6,21180,429,10,19.58,2.025,0.97,2.331,SYNTHETIC_SIMULATION,True,42
+SPD-0000644,2021-01-20,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,520.55,25658,543,17,20.29,2.116,0.96,3.131,SYNTHETIC_SIMULATION,True,42
+SPD-0000645,2021-01-20,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,251.61,29904,244,4,8.41,0.816,1.03,1.639,SYNTHETIC_SIMULATION,True,42
+SPD-0000646,2021-01-20,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,248.33,16197,195,2,15.33,1.204,1.27,1.026,SYNTHETIC_SIMULATION,True,42
+SPD-0000647,2021-01-20,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,317.99,12720,296,8,25.0,2.327,1.07,2.703,SYNTHETIC_SIMULATION,True,42
+SPD-0000648,2021-01-20,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,175.29,10765,446,14,16.28,4.143,0.39,3.139,SYNTHETIC_SIMULATION,True,42
+SPD-0000649,2021-01-21,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,325.04,15389,758,38,21.12,4.926,0.43,5.013,SYNTHETIC_SIMULATION,True,42
+SPD-0000650,2021-01-21,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,419.14,15543,390,8,26.97,2.509,1.07,2.051,SYNTHETIC_SIMULATION,True,42
+SPD-0000651,2021-01-21,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,394.77,27556,682,12,14.33,2.475,0.58,1.76,SYNTHETIC_SIMULATION,True,42
+SPD-0000652,2021-01-21,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,467.52,22695,423,11,20.6,1.864,1.11,2.6,SYNTHETIC_SIMULATION,True,42
+SPD-0000653,2021-01-21,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,233.66,37381,413,3,6.25,1.105,0.57,0.726,SYNTHETIC_SIMULATION,True,42
+SPD-0000654,2021-01-21,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,258.73,17911,189,1,14.45,1.055,1.37,0.529,SYNTHETIC_SIMULATION,True,42
+SPD-0000655,2021-01-21,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,297.0,13401,498,12,22.16,3.716,0.6,2.41,SYNTHETIC_SIMULATION,True,42
+SPD-0000656,2021-01-21,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,206.47,11899,401,14,17.35,3.37,0.51,3.491,SYNTHETIC_SIMULATION,True,42
+SPD-0000657,2021-01-22,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,308.22,12959,618,30,23.78,4.769,0.5,4.854,SYNTHETIC_SIMULATION,True,42
+SPD-0000658,2021-01-22,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,449.16,17358,545,14,25.88,3.14,0.82,2.569,SYNTHETIC_SIMULATION,True,42
+SPD-0000659,2021-01-22,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,323.5,21564,523,11,15.0,2.425,0.62,2.103,SYNTHETIC_SIMULATION,True,42
+SPD-0000660,2021-01-22,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,626.9,27436,859,28,22.85,3.131,0.73,3.26,SYNTHETIC_SIMULATION,True,42
+SPD-0000661,2021-01-22,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,206.67,32184,344,5,6.42,1.069,0.6,1.453,SYNTHETIC_SIMULATION,True,42
+SPD-0000662,2021-01-22,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,242.05,19905,312,3,12.16,1.567,0.78,0.962,SYNTHETIC_SIMULATION,True,42
+SPD-0000663,2021-01-22,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,303.74,12837,331,8,23.66,2.578,0.92,2.417,SYNTHETIC_SIMULATION,True,42
+SPD-0000664,2021-01-22,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,182.58,14827,598,16,12.31,4.033,0.31,2.676,SYNTHETIC_SIMULATION,True,42
+SPD-0000665,2021-01-23,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,350.93,15190,780,38,23.1,5.135,0.45,4.872,SYNTHETIC_SIMULATION,True,42
+SPD-0000666,2021-01-23,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,446.26,14488,346,9,30.8,2.388,1.29,2.601,SYNTHETIC_SIMULATION,True,42
+SPD-0000667,2021-01-23,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,392.28,24872,417,9,15.77,1.677,0.94,2.158,SYNTHETIC_SIMULATION,True,42
+SPD-0000668,2021-01-23,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,589.37,31282,845,23,18.84,2.701,0.7,2.722,SYNTHETIC_SIMULATION,True,42
+SPD-0000669,2021-01-23,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,234.07,34438,391,4,6.8,1.135,0.6,1.023,SYNTHETIC_SIMULATION,True,42
+SPD-0000670,2021-01-23,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,268.89,25983,231,2,10.35,0.889,1.16,0.866,SYNTHETIC_SIMULATION,True,42
+SPD-0000671,2021-01-23,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,288.39,10808,241,6,26.68,2.23,1.2,2.49,SYNTHETIC_SIMULATION,True,42
+SPD-0000672,2021-01-23,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,180.73,14917,410,11,12.12,2.749,0.44,2.683,SYNTHETIC_SIMULATION,True,42
+SPD-0000673,2021-01-24,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,319.32,15633,952,45,20.43,6.09,0.34,4.727,SYNTHETIC_SIMULATION,True,42
+SPD-0000674,2021-01-24,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,383.84,14408,538,13,26.64,3.734,0.71,2.416,SYNTHETIC_SIMULATION,True,42
+SPD-0000675,2021-01-24,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,400.24,25218,632,14,15.87,2.506,0.63,2.215,SYNTHETIC_SIMULATION,True,42
+SPD-0000676,2021-01-24,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,553.51,22333,441,9,24.78,1.975,1.26,2.041,SYNTHETIC_SIMULATION,True,42
+SPD-0000677,2021-01-24,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,237.83,25771,173,2,9.23,0.671,1.37,1.156,SYNTHETIC_SIMULATION,True,42
+SPD-0000678,2021-01-24,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,239.47,20363,289,3,11.76,1.419,0.83,1.038,SYNTHETIC_SIMULATION,True,42
+SPD-0000679,2021-01-24,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,295.87,12879,284,7,22.97,2.205,1.04,2.465,SYNTHETIC_SIMULATION,True,42
+SPD-0000680,2021-01-24,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,198.35,11115,466,10,17.85,4.193,0.43,2.146,SYNTHETIC_SIMULATION,True,42
+SPD-0000681,2021-01-25,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,358.26,15783,1080,48,22.7,6.843,0.33,4.444,SYNTHETIC_SIMULATION,True,42
+SPD-0000682,2021-01-25,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,436.23,17429,369,8,25.03,2.117,1.18,2.168,SYNTHETIC_SIMULATION,True,42
+SPD-0000683,2021-01-25,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,351.11,20770,513,10,16.9,2.47,0.68,1.949,SYNTHETIC_SIMULATION,True,42
+SPD-0000684,2021-01-25,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,477.04,19376,604,21,24.62,3.117,0.79,3.477,SYNTHETIC_SIMULATION,True,42
+SPD-0000685,2021-01-25,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,252.43,30867,364,3,8.18,1.179,0.69,0.824,SYNTHETIC_SIMULATION,True,42
+SPD-0000686,2021-01-25,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,268.72,23671,226,2,11.35,0.955,1.19,0.885,SYNTHETIC_SIMULATION,True,42
+SPD-0000687,2021-01-25,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,321.38,12243,397,9,26.25,3.243,0.81,2.267,SYNTHETIC_SIMULATION,True,42
+SPD-0000688,2021-01-25,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,207.73,13134,430,13,15.82,3.274,0.48,3.023,SYNTHETIC_SIMULATION,True,42
+SPD-0000689,2021-01-26,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,296.95,14795,1073,44,20.07,7.252,0.28,4.101,SYNTHETIC_SIMULATION,True,42
+SPD-0000690,2021-01-26,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,445.95,14431,472,9,30.9,3.271,0.94,1.907,SYNTHETIC_SIMULATION,True,42
+SPD-0000691,2021-01-26,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,339.79,24189,561,11,14.05,2.319,0.61,1.961,SYNTHETIC_SIMULATION,True,42
+SPD-0000692,2021-01-26,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,489.66,19888,505,12,24.62,2.539,0.97,2.376,SYNTHETIC_SIMULATION,True,42
+SPD-0000693,2021-01-26,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,220.04,25238,163,2,8.72,0.646,1.35,1.227,SYNTHETIC_SIMULATION,True,42
+SPD-0000694,2021-01-26,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,305.79,23969,297,3,12.76,1.239,1.03,1.01,SYNTHETIC_SIMULATION,True,42
+SPD-0000695,2021-01-26,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,267.58,12547,377,8,21.33,3.005,0.71,2.122,SYNTHETIC_SIMULATION,True,42
+SPD-0000696,2021-01-26,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,164.35,9633,430,14,17.06,4.464,0.38,3.256,SYNTHETIC_SIMULATION,True,42
+SPD-0000697,2021-01-27,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,353.96,18197,1343,52,19.45,7.38,0.26,3.872,SYNTHETIC_SIMULATION,True,42
+SPD-0000698,2021-01-27,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,510.94,15993,525,16,31.95,3.283,0.97,3.048,SYNTHETIC_SIMULATION,True,42
+SPD-0000699,2021-01-27,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,387.93,24936,516,11,15.56,2.069,0.75,2.132,SYNTHETIC_SIMULATION,True,42
+SPD-0000700,2021-01-27,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,479.56,22201,705,17,21.6,3.176,0.68,2.411,SYNTHETIC_SIMULATION,True,42
+SPD-0000701,2021-01-27,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,239.31,24846,290,5,9.63,1.167,0.83,1.724,SYNTHETIC_SIMULATION,True,42
+SPD-0000702,2021-01-27,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,281.8,17764,250,2,15.86,1.407,1.13,0.8,SYNTHETIC_SIMULATION,True,42
+SPD-0000703,2021-01-27,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,307.85,11957,316,9,25.75,2.643,0.97,2.848,SYNTHETIC_SIMULATION,True,42
+SPD-0000704,2021-01-27,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,199.5,15374,558,18,12.98,3.63,0.36,3.226,SYNTHETIC_SIMULATION,True,42
+SPD-0000705,2021-01-28,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,319.89,17700,801,34,18.07,4.525,0.4,4.245,SYNTHETIC_SIMULATION,True,42
+SPD-0000706,2021-01-28,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,507.54,20898,657,14,24.29,3.144,0.77,2.131,SYNTHETIC_SIMULATION,True,42
+SPD-0000707,2021-01-28,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,359.67,18842,461,7,19.09,2.447,0.78,1.518,SYNTHETIC_SIMULATION,True,42
+SPD-0000708,2021-01-28,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,538.24,33097,819,26,16.26,2.475,0.66,3.175,SYNTHETIC_SIMULATION,True,42
+SPD-0000709,2021-01-28,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,194.82,27226,228,4,7.16,0.837,0.85,1.754,SYNTHETIC_SIMULATION,True,42
+SPD-0000710,2021-01-28,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,321.43,31300,441,4,10.27,1.409,0.73,0.907,SYNTHETIC_SIMULATION,True,42
+SPD-0000711,2021-01-28,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,300.0,11523,444,14,26.03,3.853,0.68,3.153,SYNTHETIC_SIMULATION,True,42
+SPD-0000712,2021-01-28,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,194.4,13746,560,14,14.14,4.074,0.35,2.5,SYNTHETIC_SIMULATION,True,42
+SPD-0000713,2021-01-29,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,326.15,16185,1047,42,20.15,6.469,0.31,4.011,SYNTHETIC_SIMULATION,True,42
+SPD-0000714,2021-01-29,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,408.37,13096,286,7,31.18,2.184,1.43,2.448,SYNTHETIC_SIMULATION,True,42
+SPD-0000715,2021-01-29,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,348.18,24462,378,6,14.23,1.545,0.92,1.587,SYNTHETIC_SIMULATION,True,42
+SPD-0000716,2021-01-29,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,610.52,32926,1031,31,18.54,3.131,0.59,3.007,SYNTHETIC_SIMULATION,True,42
+SPD-0000717,2021-01-29,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,215.82,25939,236,4,8.32,0.91,0.91,1.695,SYNTHETIC_SIMULATION,True,42
+SPD-0000718,2021-01-29,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,261.73,21598,327,4,12.12,1.514,0.8,1.223,SYNTHETIC_SIMULATION,True,42
+SPD-0000719,2021-01-29,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,346.51,14836,535,14,23.36,3.606,0.65,2.617,SYNTHETIC_SIMULATION,True,42
+SPD-0000720,2021-01-29,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,189.86,14353,529,13,13.23,3.686,0.36,2.457,SYNTHETIC_SIMULATION,True,42
+SPD-0000721,2021-01-30,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,303.83,13136,673,25,23.13,5.123,0.45,3.715,SYNTHETIC_SIMULATION,True,42
+SPD-0000722,2021-01-30,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,391.82,12475,363,8,31.41,2.91,1.08,2.204,SYNTHETIC_SIMULATION,True,42
+SPD-0000723,2021-01-30,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,415.44,21848,422,9,19.02,1.932,0.98,2.133,SYNTHETIC_SIMULATION,True,42
+SPD-0000724,2021-01-30,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,594.74,27167,547,20,21.89,2.013,1.09,3.656,SYNTHETIC_SIMULATION,True,42
+SPD-0000725,2021-01-30,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,222.58,31218,267,2,7.13,0.855,0.83,0.749,SYNTHETIC_SIMULATION,True,42
+SPD-0000726,2021-01-30,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,248.74,17045,136,1,14.59,0.798,1.83,0.735,SYNTHETIC_SIMULATION,True,42
+SPD-0000727,2021-01-30,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,312.09,15271,603,14,20.44,3.949,0.52,2.322,SYNTHETIC_SIMULATION,True,42
+SPD-0000728,2021-01-30,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,178.84,12937,383,8,13.82,2.961,0.47,2.089,SYNTHETIC_SIMULATION,True,42
+SPD-0000729,2021-01-31,CMP-001,Paid Search,Brand_Search_Core,google,cpc,Brand_Search_Core,342.02,14370,743,36,23.8,5.17,0.46,4.845,SYNTHETIC_SIMULATION,True,42
+SPD-0000730,2021-01-31,CMP-002,Paid Search,Generic_Apparel_Promo,google,cpc,Generic_Apparel_Promo,482.66,15833,437,9,30.48,2.76,1.1,2.059,SYNTHETIC_SIMULATION,True,42
+SPD-0000731,2021-01-31,CMP-003,Paid Social,Holiday_Gift_Guide_2020,instagram,social_paid,Holiday_Gift_Guide_2020,360.08,19703,505,8,18.28,2.563,0.71,1.584,SYNTHETIC_SIMULATION,True,42
+SPD-0000732,2021-01-31,CMP-004,Paid Social,Black_Friday_Cyber_Week,facebook,social_paid,Black_Friday_Cyber_Week,528.71,21922,642,24,24.12,2.929,0.82,3.738,SYNTHETIC_SIMULATION,True,42
+SPD-0000733,2021-01-31,CMP-005,Display,Dynamic_Remarketing_Banners,google_display,display,Dynamic_Remarketing_Banners,236.78,31267,298,4,7.57,0.953,0.79,1.342,SYNTHETIC_SIMULATION,True,42
+SPD-0000734,2021-01-31,CMP-006,Video,Brand_Awareness_Video_Q4,youtube,video,Brand_Awareness_Video_Q4,244.59,18436,252,2,13.27,1.367,0.97,0.794,SYNTHETIC_SIMULATION,True,42
+SPD-0000735,2021-01-31,CMP-007,Paid Search,Winter_Clearance_Sale,google,cpc,Winter_Clearance_Sale,336.1,13624,533,11,24.67,3.912,0.63,2.064,SYNTHETIC_SIMULATION,True,42
+SPD-0000736,2021-01-31,CMP-008,Affiliate,Affiliate_Partner_Deals,rakuten,affiliate,Affiliate_Partner_Deals,176.62,11315,350,11,15.61,3.093,0.5,3.143,SYNTHETIC_SIMULATION,True,42

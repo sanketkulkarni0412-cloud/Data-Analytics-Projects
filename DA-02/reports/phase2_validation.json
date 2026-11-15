@@ -1,0 +1,107 @@
+{
+  "timestamp_utc": "2026-11-12T11:51:27.710394+00:00",
+  "phase": "PHASE_2_CORE_ANALYTICS",
+  "validation_status": "PASSED",
+  "bigquery_connection": {
+    "status": "LOCAL_REPRODUCIBLE_EXECUTION",
+    "details": "Ambient/ADC credentials not configured; executing verified deterministic local pipeline.",
+    "target_dataset": "ecommerce_analytics_staging",
+    "public_dataset_source": "bigquery-public-data.ga4_obfuscated_sample_ecommerce"
+  },
+  "models_summary": {
+    "stg_ga4_events": {
+      "grain": "Event occurrence",
+      "status": "READY"
+    },
+    "int_sessions": {
+      "grain": "Session (session_key)",
+      "row_count": 12108,
+      "status": "GENERATED"
+    },
+    "int_orders": {
+      "grain": "Order (order_id)",
+      "row_count": 1659,
+      "status": "GENERATED"
+    },
+    "fct_channel_attribution": {
+      "grain": "Order with attributed channel",
+      "row_count": 1659,
+      "status": "GENERATED"
+    },
+    "fct_campaign_performance": {
+      "grain": "Campaign (channel + campaign)",
+      "row_count": 8,
+      "status": "GENERATED"
+    },
+    "customer_profile": {
+      "grain": "Customer (customer_id)",
+      "row_count": 5000,
+      "status": "GENERATED"
+    }
+  },
+  "core_kpis": {
+    "users": {
+      "total_ga4_users": 7000,
+      "resolved_users": 4200,
+      "anonymous_unresolved_users": 2800,
+      "resolution_rate_pct": 60.0
+    },
+    "sessions": {
+      "total_sessions": 12108,
+      "engaged_sessions": 12108,
+      "engagement_rate_pct": 100.0,
+      "avg_duration_seconds": 124.6
+    },
+    "e_commerce": {
+      "total_orders": 1659,
+      "total_revenue_usd": 131133.96,
+      "average_order_value_usd": 79.04,
+      "conversion_rate_pct": 13.7
+    },
+    "customer_metrics": {
+      "total_crm_customers": 5000,
+      "purchasing_customers": 1099,
+      "repeat_purchasing_customers": 374,
+      "repeat_purchase_rate_pct": 34.03,
+      "rfm_segment_distribution": {
+        "At Risk High Value": 1154,
+        "Champions": 962,
+        "Loyal Customers": 884,
+        "Hibernating / Inactive": 846,
+        "Recent Potential Loyalists": 704,
+        "Promising / General": 450
+      }
+    },
+    "marketing_performance": {
+      "total_ad_spend_usd": 308808.42,
+      "blended_roas": 0.42,
+      "blended_cac_usd": 186.14,
+      "total_impressions": 18105606,
+      "total_clicks": 445671,
+      "blended_ctr_pct": 2.46,
+      "blended_cpc_usd": 0.69,
+      "attributed_revenue_by_channel": {
+        "Affiliate": 5774.63,
+        "Direct": 10019.88,
+        "Display": 9792.08,
+        "Organic Search": 11261.27,
+        "Paid Search": 48497.45,
+        "Paid Social": 36004.02,
+        "Video": 9784.63
+      }
+    }
+  },
+  "attribution_methodology": {
+    "model_name": "LAST_NON_DIRECT_TOUCH",
+    "lookback_window": "30 days prior to order",
+    "rule": "Allocates 100% conversion and revenue credit to the most recent non-direct session touchpoint preceding the purchase event; falls back to Direct only if no prior non-direct touchpoint exists."
+  },
+  "data_quality_checks": {
+    "sessions_null_keys": 0,
+    "orders_duplicate_order_id": 0,
+    "orders_non_negative_revenue": true,
+    "customer_profile_duplicate_id": 0,
+    "rfm_score_range_valid": true,
+    "status": "ALL_QUALITY_CHECKS_PASSED"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "timestamp_utc": "2026-11-12T11:41:17.181260+00:00",
+  "validation_status": "PASSED",
+  "datasets": {
+    "synthetic_crm_customers": {
+      "file": "data/synthetic_crm_customers.csv",
+      "row_count": 5000,
+      "unique_customers": 5000,
+      "date_range": {
+        "min_signup_date": "2019-01-01",
+        "max_signup_date": "2021-01-31"
+      },
+      "customer_tiers": {
+        "Bronze": 2515,
+        "Silver": 1534,
+        "Gold": 706,
+        "Platinum": 245
+      },
+      "rfc2606_email_compliant": true,
+      "is_synthetic_labeled": true
+    },
+    "synthetic_ad_spend": {
+      "file": "data/synthetic_ad_spend.csv",
+      "row_count": 736,
+      "date_range": {
+        "min_spend_date": "2020-11-01",
+        "max_spend_date": "2021-01-31"
+      },
+      "distinct_days": 92,
+      "channel_count": 5,
+      "campaign_count": 8,
+      "channels": [
+        "Affiliate",
+        "Display",
+        "Paid Search",
+        "Paid Social",
+        "Video"
+      ],
+      "campaigns": [
+        "Affiliate_Partner_Deals",
+        "Black_Friday_Cyber_Week",
+        "Brand_Awareness_Video_Q4",
+        "Brand_Search_Core",
+        "Dynamic_Remarketing_Banners",
+        "Generic_Apparel_Promo",
+        "Holiday_Gift_Guide_2020",
+        "Winter_Clearance_Sale"
+      ],
+      "financial_totals": {
+        "total_spend_usd": 308808.42,
+        "total_impressions": 18105606,
+        "total_clicks": 445671,
+        "total_conversions": 12585,
+        "overall_ctr_pct": 2.46,
+        "overall_cvr_pct": 2.82
+      },
+      "hierarchy_invariants_passed": true
+    },
+    "synthetic_identity_mapping": {
+      "file": "data/synthetic_identity_mapping.csv",
+      "total_mapped_users": 7000,
+      "resolved_users": 4200,
+      "unresolved_anonymous_users": 2800,
+      "resolution_rate_pct": 60.0,
+      "link_method_breakdown": {
+        "NONE": 2800,
+        "PURCHASE_CHECKOUT": 1880,
+        "ACCOUNT_LOGIN": 1680,
+        "EMAIL_NEWSLETTER_SIGNUP": 640
+      },
+      "unique_crm_customers_linked": 2631
+    }
+  },
+  "test_suite": {
+    "test_synthetic_data": "13/13 PASSED",
+    "test_bigquery_runner": "5/5 PASSED"
+  }
+}
